@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Landmaster135's GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=Landmaster135&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Landmaster135&theme=tokyonight" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Landmaster135&layout=compact&theme=tokyonight" />
 </a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Landmaster135&layout=compact&theme=tokyonight)
