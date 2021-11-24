@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Landmaster135's GitHub stats](https://github-readme-stats.vercel.app/api?username=Landmaster135&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Landmaster135&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
