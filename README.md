@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" height="170.2em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Landmaster135&layout=compact&theme=tokyonight" />
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Landmaster135&theme=synthwave&column=7" />
+  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Landmaster135&theme=highcontrast&column=7" />
 </a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Landmaster135&layout=compact&theme=tokyonight)
