@@ -25,12 +25,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Landmaster135&layout=compact&theme=tokyonight)
-](https://github.com/anuraghazra/github-readme-stats)
-[![Landmaster135's GitHub stats](https://github-readme-stats.vercel.app/api?username=Landmaster135&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Landmaster135&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 # Friends
 <p align="left">
   <img height="60.2em" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
