@@ -59,3 +59,4 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.youtube.com/channel/UC95FIAkqzrjyVlg1uWdYzlw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=YouTube&logoColor=white" /></a>
 </p>
 
+![Metrics](https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg)
