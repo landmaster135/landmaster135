@@ -40,11 +40,11 @@ You can click the Preview link to take a look at your changes.
 # Recent Posts
 
 <!--[START POSTS LIST]-->
+- ![](img/zenn.png) [【Node.js】Qiita/Zennの投稿をGitHubのProfileに自動反映する。（半分ポエム）](https://zenn.dev/kinkinbeer135ml/articles/968c7f8a5f0767)
+- ![](img/qiita.png) [Github Actionsで別のリポジトリにSSH接続するための手順](https://qiita.com/Landmaster135/items/f426b499411fbd8dbe90)
+- ![](img/qiita.png) [Githubにある自作のnpmモジュールをnpm installしてENOENTなエラーが出た時](https://qiita.com/Landmaster135/items/2cff3d8673a07cb4ea93)
+- ![](img/qiita.png) [【Node.js】Windows環境におけるCypressのIntegrationフォルダーの場所](https://qiita.com/Landmaster135/items/e8ebf5bda349f731cf1e)
 - ![](img/qiita.png) [【Node.js】バージョンが古くてfetchが使えんのお](https://qiita.com/Landmaster135/items/19e67db282f2e35d1197)
-- ![](img/zenn.png) [【Javascript】連想配列とかをディープコピーする前に](https://zenn.dev/kinkinbeer135ml/articles/79972f1e056887)
-- ![](img/zenn.png) [【Docker】ファイル実行できるNode.js環境を作る](https://zenn.dev/kinkinbeer135ml/articles/6369ee73dd1508)
-- ![](img/zenn.png) [Web上の画像をGoogleドライブに保存する](https://zenn.dev/kinkinbeer135ml/articles/44a5b20371482e)
-- ![](img/zenn.png) [【Javascript】Kindleの蔵書のタイトルだけを一覧で取得するツールを作りました](https://zenn.dev/kinkinbeer135ml/articles/1500f99b37aece)
 <!--[END POSTS LIST]-->
 
 # Blog, SNS
