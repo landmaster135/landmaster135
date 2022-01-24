@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
   <img height="40.2em" alt="Processing" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Processing_Logo_Clipped.svg">
   <img height="40.2em" alt="Rhinoceros" src="img/Tools/rhinoceros.svg">
   <img height="40.2em" alt="Grasshopper" src="img/Tools/grasshopper.jpg">
+  <img height="40.2em" alt="npm" src="img/Tools/npm.svg" style="color: #CB3837">
   <img height="40.2em" alt="VBA" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
 </p>
 
