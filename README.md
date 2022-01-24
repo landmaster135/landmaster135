@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="150.2em" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Landmaster135&theme=dracula&column=7" />
+    <img height="100.2em" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Landmaster135&theme=dracula&column=7" />
   </a>
 </p>
 
