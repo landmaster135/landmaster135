@@ -42,11 +42,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
   <img height="40.2em" alt="Illustrator" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg">
   <img height="40.2em" alt="Photoshop" src="">
-  <div>
-    <svg>
-      <use xlink:href="img/subTools/adobeIndesign.svg#indesign"></use>
-    </svg>
-  </div>
+  <img height="40.2em" alt="InDesign" src="img/subTools/adobeIndesign.svg">
   <img height="40.2em" alt="Premiere Pro" src="">
   <img height="40.2em" alt="Davinci Resolve" src="">
 </p>
