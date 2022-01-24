@@ -43,9 +43,7 @@ You can click the Preview link to take a look at your changes.
   <img height="40.2em" alt="Illustrator" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg">
   <img height="40.2em" alt="Photoshop" src="">
   <div>
-    <svg>
-      <use xlink:href="./iimg/subTools/adobeIndesign.svg"></use>
-    </svg>
+    <use xlink:href="./iimg/subTools/adobeIndesign.svg"></use>
   </div>
   <img height="40.2em" alt="InDesign" src="img/subTools/adobeIndesign.svg" style="fill='%23FF3366;">
   
