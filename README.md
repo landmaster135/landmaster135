@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
   <img height="40.2em" alt="Google Apps Script" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg">
   <img height="40.2em" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img height="40.2em" alt="AppSheet" src="https://upload.wikimedia.org/wikipedia/commons/5/52/AppSheet_Logo.svg">
-  <img height="40.2em" alt="GitHub" src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg">
+  <img height="40.2em" alt="GitHub" src="img/Tools/github.svg">
   <img height="40.2em" alt="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
   <img height="40.2em" alt="Processing" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Processing_Logo_Clipped.svg">
   <img height="40.2em" alt="Rhinoceros" src="img/Tools/rhinoceros.svg">
