@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 # Tools
 <p align="left">
+<!--[START IMAGE LIST]-->
   <img height="40.2em" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
   <img height="40.2em" alt="Google Apps Script" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg">
   <img height="40.2em" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
@@ -49,10 +50,12 @@ You can click the Preview link to take a look at your changes.
   <img height="40.2em" alt="Bash" src="img/Tools/bash.png">
   <img height="40.2em" alt="MacOS" src="img/Tools/macos.png">
   <img height="40.2em" alt="Windows" src="img/Tools/windows.png">
+<!--[END IMAGE LIST]-->
 </p>
 
 # Sub Tools
 <p align="left">
+<!--[START IMAGE LIST]-->
   <img height="40.2em" alt="Illustrator" src="img/subTools/adobeIllustrator.png">
   <img height="40.2em" alt="Photoshop" src="img/subTools/adobePhotoshop.png">
   <img height="40.2em" alt="InDesign" src="img/subTools/adobeIndesign.png">
@@ -62,6 +65,7 @@ You can click the Preview link to take a look at your changes.
   <img height="40.2em" alt="OutSystems" src="img/subTools/outsystems.png">
   <img height="40.2em" alt="Google Spreadsheet" src="img/subTools/gss.png">
   <img height="40.2em" alt="Excel" src="img/subTools/excel.png">
+<!--[END IMAGE LIST]-->
 </p>
 
 # Recent Posts
