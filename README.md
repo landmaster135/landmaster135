@@ -42,10 +42,10 @@ You can click the Preview link to take a look at your changes.
 
 # Sub Tools
 <p align="left">
-  <img height="40.2em" alt="Illustrator" src="img/subTools/adobeIllustrator.svg" style="color: #FF9A00">
-  <img height="40.2em" alt="Photoshop" src="img/subTools/adobePhotoshop.svg" style="color: #31A8FF">
-  <img height="40.2em" alt="InDesign" src="img/subTools/adobeIndesign.svg" style="color: #FF3366">
-  <img height="40.2em" alt="Premiere Pro" src="img/subTools/adobePremierepro.svg" style="color: #9999FF">
+  <img height="40.2em" alt="Illustrator" src="img/subTools/adobeIllustrator.png">
+  <img height="40.2em" alt="Photoshop" src="img/subTools/adobePhotoshop.png">
+  <img height="40.2em" alt="InDesign" src="img/subTools/adobeIndesign.png">
+  <img height="40.2em" alt="Premiere Pro" src="img/subTools/adobePremierepro.png">
   <img height="40.2em" alt="Davinci Resolve" src="img/subTools/davinciResolve.png">
 </p>
 
