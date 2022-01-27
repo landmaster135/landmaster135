@@ -74,6 +74,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://zenn.dev/kinkinbeer135ml" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=flat&logo=Zenn&logoColor=white" /></a>
   <a href="https://note.com/kinkinbeer135ml" target="_blank"><img alt="note" src="https://img.shields.io/badge/note-41C9B4.svg?&style=flat&logo=note&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UC95FIAkqzrjyVlg1uWdYzlw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=YouTube&logoColor=white" /></a>
+  <a href="https://speakerdeck.com/kinkinbeer135ml" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/SpeakerDeck-009287.svg?style=flat&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
 [<img align="left" alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">]()
