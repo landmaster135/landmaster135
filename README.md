@@ -42,9 +42,11 @@ You can click the Preview link to take a look at your changes.
   <img height="40.2em" alt="Docker" src="img/Tools/docker.png">
   <img height="40.2em" alt="HTML" src="img/Tools/html.png">
   <img height="40.2em" alt="CSS" src="img/Tools/css.png">
+  <img height="40.2em" alt="JavaScript" src="img/Tools/javascript.png">
   <img height="40.2em" alt="Google Chrome" src="img/Tools/chrome.png">
   <img height="40.2em" alt="Microsoft Edge" src="img/Tools/edge.png">
   <img height="40.2em" alt="VBA" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
+  <img height="40.2em" alt="Bash" src="img/Tools/bash.png">
   <img height="40.2em" alt="MacOS" src="img/Tools/macos.png">
   <img height="40.2em" alt="Windows" src="img/Tools/windows.png">
 </p>
