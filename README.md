@@ -41,6 +41,8 @@ You can click the Preview link to take a look at your changes.
   <img height="40.2em" alt="HTML" src="img/Tools/html.png">
   <img height="40.2em" alt="CSS" src="img/Tools/css.png">
   <img height="40.2em" alt="Sqlite" src="img/Tools/sqlite.png">
+  <img height="40.2em" alt="MacOS" src="img/Tools/macos.png">
+  <img height="40.2em" alt="Windows" src="img/Tools/windows.png">
   <img height="40.2em" alt="VBA" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
 </p>
 
@@ -53,6 +55,8 @@ You can click the Preview link to take a look at your changes.
   <img height="40.2em" alt="Davinci Resolve" src="img/subTools/davinciResolve.png">
   <img height="40.2em" alt="Salesforce" src="img/subTools/salesforce.png">
   <img height="40.2em" alt="OutSystems" src="img/subTools/outsystems.png">
+  <img height="40.2em" alt="Google Spreadsheet" src="img/subTools/gss.png">
+  <img height="40.2em" alt="Excel" src="img/subTools/excel.png">
 </p>
 
 # Recent Posts
