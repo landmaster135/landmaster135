@@ -34,17 +34,17 @@ You can click the Preview link to take a look at your changes.
   <img height="40.2em" alt="GitHub" src="img/Tools/github.png">
   <img height="40.2em" alt="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
   <img height="40.2em" alt="Processing" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Processing_Logo_Clipped.svg">
+  <img height="40.2em" alt="Sqlite" src="img/Tools/sqlite.png">
   <img height="40.2em" alt="Rhinoceros" src="img/Tools/rhinoceros.png">
   <img height="40.2em" alt="Grasshopper" src="img/Tools/grasshopper.jpg">
+  <img height="40.2em" alt="Visual Studio Code" src="img/Tools/vscode.png">
   <img height="40.2em" alt="npm" src="img/Tools/npm.svg">
-  <img height="40.2em" alt="VBA" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
+  <img height="40.2em" alt="Docker" src="img/Tools/docker.png">
   <img height="40.2em" alt="HTML" src="img/Tools/html.png">
   <img height="40.2em" alt="CSS" src="img/Tools/css.png">
-  <img height="40.2em" alt="Sqlite" src="img/Tools/sqlite.png">
-  <img height="40.2em" alt="Docker" src="img/Tools/docker.png">
-  <img height="40.2em" alt="Visual Studio Code" src="img/Tools/vscode.png">
   <img height="40.2em" alt="Google Chrome" src="img/Tools/chrome.png">
   <img height="40.2em" alt="Microsoft Edge" src="img/Tools/edge.png">
+  <img height="40.2em" alt="VBA" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
   <img height="40.2em" alt="MacOS" src="img/Tools/macos.png">
   <img height="40.2em" alt="Windows" src="img/Tools/windows.png">
 </p>
