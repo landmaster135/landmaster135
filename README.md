@@ -31,10 +31,10 @@ You can click the Preview link to take a look at your changes.
   <img height="40.2em" alt="Google Apps Script" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg">
   <img height="40.2em" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img height="40.2em" alt="AppSheet" src="https://upload.wikimedia.org/wikipedia/commons/5/52/AppSheet_Logo.svg">
-  <img height="40.2em" alt="GitHub" src="img/Tools/github.svg">
+  <img height="40.2em" alt="GitHub" src="img/Tools/github.png">
   <img height="40.2em" alt="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
   <img height="40.2em" alt="Processing" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Processing_Logo_Clipped.svg">
-  <img height="40.2em" alt="Rhinoceros" src="img/Tools/rhinoceros.svg">
+  <img height="40.2em" alt="Rhinoceros" src="img/Tools/rhinoceros.png">
   <img height="40.2em" alt="Grasshopper" src="img/Tools/grasshopper.jpg">
   <img height="40.2em" alt="npm" src="img/Tools/npm.svg" style="color: #CB3837">
   <img height="40.2em" alt="VBA" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
@@ -74,6 +74,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://zenn.dev/kinkinbeer135ml" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=flat&logo=Zenn&logoColor=white" /></a>
   <a href="https://note.com/kinkinbeer135ml" target="_blank"><img alt="note" src="https://img.shields.io/badge/note-41C9B4.svg?&style=flat&logo=note&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UC95FIAkqzrjyVlg1uWdYzlw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=YouTube&logoColor=white" /></a>
+  <a href="https://speakerdeck.com/kinkinbeer135ml" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/SpeakerDeck-009287.svg?style=flat&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
 [<img align="left" alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">]()
