@@ -65,6 +65,7 @@ You can click the Preview link to take a look at your changes.
   <img height="30.2em" alt="OutSystems" src="img/subTools/outsystems.png">
   <img height="30.2em" alt="Google Spreadsheet" src="img/subTools/gss.png">
   <img height="30.2em" alt="Excel" src="img/subTools/excel.png">
+  <img height="30.2em" alt="Midas iGen" src="img/subTools/midasigen.png">
 <!--[END IMAGE LIST]-->
 </p>
 
