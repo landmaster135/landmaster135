@@ -67,6 +67,7 @@ You can click the Preview link to take a look at your changes.
   <img height="30.2em" alt="Excel" src="img/subTools/excel.png">
   <img height="30.2em" alt="Midas iGen" src="img/subTools/midasigen.png">
   <img height="30.2em" alt="Selenium" src="img/subTools/selenium.png">
+  <img height="30.2em" alt="Jest" src="img/subTools/jest.png">
 <!--[END IMAGE LIST]-->
 </p>
 
