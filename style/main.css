@@ -1,6 +1,6 @@
 .decoimage {
   height: calc(100vw / 2);
-/*   border-style: none; */
+  border-style: none;
 }
 
 table, tr, th, td {
