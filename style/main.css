@@ -1,4 +1,3 @@
-.decotable {
-  width: 100%;
-  height: 80%;
+.decoimage {
+  height: calc(100vw / 2);
 }
