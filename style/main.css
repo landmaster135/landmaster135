@@ -3,7 +3,7 @@
   border-style: none;
 }
 
-table, tr, th, td {
+/* table, tr, th, td {
 /*   border: none; */
 /*   border: 1px solid #0E1117!important; */
 /*   margin:0;
@@ -13,7 +13,7 @@ table, tr, th, td {
   font-size:100%;
   vertical-align:baseline;
   background:transparent; */
-}
+} */
 
 .decotable {
 /*   border-color: hsla(0,0,0,0)!important; */
