@@ -103,9 +103,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://speakerdeck.com/kinkinbeer135ml" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/SpeakerDeck-009287.svg?style=flat&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
-<p>
+<p align="left">
 <!-- [<img align="left" alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">]() -->
-  <img align="left" alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
+  <img alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
 </p>
 
 <p align="left">
