@@ -5,6 +5,7 @@
 table, tr, th, td {
 /*   border: none; */
   border: 1px solid #0E1117!important;
+  border-color: #0E1117!important;
   margin:0;
   padding:0;
 /*   border:0!important; */
@@ -19,6 +20,3 @@ table {
   border-spacing:0;
 }
 
-tr {
-  border-color: #0E1117!important;
-}
