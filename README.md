@@ -114,8 +114,8 @@ You can click the Preview link to take a look at your changes.
 <!--[START DECOIMAGE LIST]-->
   <tr>
     <td border="2" width="29%"><img class="decoimage" alt="Dragon" src="img/Decoration/dragon_01.png"></td>
-    <td style="border: 2px solid #0E1117;" width="28%"><img class="decoimage" alt="Leviathan" src="img/Decoration/leviathan_02.png"></td>
-    <td style="border: 2px solid #0E1117;"><img class="decoimage" alt="Wyvern" src="img/Decoration/dragon_05.png"></td>
+    <td border="2" width="28%"><img class="decoimage" alt="Leviathan" src="img/Decoration/leviathan_02.png"></td>
+    <td border="2"><img class="decoimage" alt="Wyvern" src="img/Decoration/dragon_05.png"></td>
   </tr>
 <!--[END DECOIMAGE LIST]-->
 </table>
