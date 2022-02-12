@@ -6,13 +6,13 @@
 table, tr, th, td {
 /*   border: none; */
 /*   border: 1px solid #0E1117!important; */
-  margin:0;
-  padding:0;
+/*   margin:0;
+  padding:0; */
 /*   border:0!important; */
-  outline:0;
+/*   outline:0;
   font-size:100%;
   vertical-align:baseline;
-  background:transparent;
+  background:transparent; */
 }
 
 table {
