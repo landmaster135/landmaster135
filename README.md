@@ -73,6 +73,21 @@ You can click the Preview link to take a look at your changes.
 <!--[END IMAGE LIST]-->
 </p>
 
+<!-- DECORATION IMAGE -->
+<div>
+<!--[START DECOIMAGE LIST]-->
+  <figure style="float:left;">
+    <img width="28%" alt="Dragon" src="img/Decoration/dragon_01.png">
+  </figure>
+  <figure style="float:left;">
+    <img width="27%" alt="Leviathan" src="img/Decoration/leviathan_02.png">
+  </figure>
+  <figure style="float:left;">
+    <img width="42%" alt="Wyvern" src="img/Decoration/dragon_05.png">
+  </figure>
+<!--[END DECOIMAGE LIST]-->
+</div>
+
 ## Recent Posts
 
 <!--[START POSTS LIST]-->
@@ -110,16 +125,3 @@ You can click the Preview link to take a look at your changes.
   <img alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
 </p>
 
-<div>
-<!--[START DECOIMAGE LIST]-->
-  <figure style="float:left;">
-    <img width="28%" alt="Dragon" src="img/Decoration/dragon_01.png">
-  </figure>
-  <figure style="float:left;">
-    <img width="27%" alt="Leviathan" src="img/Decoration/leviathan_02.png">
-  </figure>
-  <figure style="float:left;">
-    <img width="42%" alt="Wyvern" src="img/Decoration/dragon_05.png">
-  </figure>
-<!--[END DECOIMAGE LIST]-->
-</div>
