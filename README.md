@@ -121,6 +121,21 @@ You can click the Preview link to take a look at your changes.
   <a href="https://speakerdeck.com/kinkinbeer135ml" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/SpeakerDeck-009287.svg?style=flat&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
+<!-- DECORATION IMAGE -->
+<div>
+<!--[START DECOIMAGE LIST]-->
+  <figure style="float:left;">
+    <img width="40%" alt="Lunastra" src="img/Decoration/mh_09.png">
+  </figure>
+  <figure style="float:left;">
+    <img width="40%" alt="Zinogre" src="img/Decoration/mh_07.png">
+  </figure>
+<!--   <figure style="float:left;">
+    <img width="42%" alt="Wyvern" src="img/Decoration/dragon_05.png">
+  </figure> -->
+<!--[END DECOIMAGE LIST]-->
+</div>
+
 <p align="left">
   <img alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
 </p>
