@@ -107,7 +107,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
 </p>
 
-<p align="left">
+<p align="justy">
 <!--[START DECOIMAGE LIST]-->
   <img height="390.2em" alt="Dragon" src="img/Decoration/dragon_01.png">
   <img height="390.2em" alt="Leviathan" src="img/Decoration/leviathan_02.png">
