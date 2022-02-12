@@ -127,7 +127,7 @@ You can click the Preview link to take a look at your changes.
   <figure style="float:left;">
     <img width="40%" alt="Lunastra" src="img/Decoration/mh_09.png">
   </figure>
-  <a style="clear: both;"></a>
+  <div style="clear: both;"></div>
   <figure style="float:left; position:absolute; right:0;">
     <img width="45%" alt="Zinogre" src="img/Decoration/mh_07.png">
   </figure>
