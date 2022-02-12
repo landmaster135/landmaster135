@@ -9,7 +9,8 @@ Landmaster135/Landmaster135 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<link href="style/main.css" rel="stylesheet"></link>
+<!-- No stylesheet execept github-markdown-css is readable in GitHub -->
+<!-- <link href="style/main.css" rel="stylesheet"></link> -->
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
