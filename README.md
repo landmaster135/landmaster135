@@ -125,9 +125,9 @@ You can click the Preview link to take a look at your changes.
 <div style="position:relative;">
 <!--[START DECOIMAGE LIST]-->
   <p style="text-align:justify;">
-    <img width="44%" alt="Lunastra" src="img/Decoration/mh_09.png" style="display:inline;">
+    <img width="40%" alt="Lunastra" src="img/Decoration/mh_09.png" style="display:inline;">
   <p style="content:"　　";"></p>
-    <img width="49%" alt="Zinogre" src="img/Decoration/mh_07.png" style="display:inline;">
+    <img width="45%" alt="Zinogre" src="img/Decoration/mh_07.png" style="display:inline;">
   </p>
 <!--   <figure style="float:left;">
     <img width="40%" alt="Lunastra" src="img/Decoration/mh_09.png">
