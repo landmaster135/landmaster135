@@ -18,3 +18,7 @@ table {
   border-collapse:collapse;
   border-spacing:0;
 }
+
+tr {
+  border-color: #0E1117!important;
+}
