@@ -111,6 +111,6 @@ You can click the Preview link to take a look at your changes.
 <!--[START DECOIMAGE LIST]-->
   <img width="300.2em" alt="Dragon" src="img/Decoration/dragon_01.png">
   <img width="300.2em" alt="Leviathan" src="img/Decoration/leviathan_02.png">
-  <img width="300.2em" alt="Wyvern" src="img/Decoration/dragon_05.png">
+  <img width="400.2em" alt="Wyvern" src="img/Decoration/dragon_05.png">
 <!--[END DECOIMAGE LIST]-->
 </p>
