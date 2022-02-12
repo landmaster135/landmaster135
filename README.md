@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
 <table border="1">
 <!--[START DECOIMAGE LIST]-->
   <tr>
-    <td><img height="390.2em" alt="Dragon" src="img/Decoration/dragon_01.png"></td>
+    <td width="10%"><img height="390.2em" alt="Dragon" src="img/Decoration/dragon_01.png"></td>
     <td><img height="390.2em" alt="Leviathan" src="img/Decoration/leviathan_02.png"></td>
     <td><img height="390.2em" alt="Wyvern" src="img/Decoration/dragon_05.png"></td>
   </tr>
