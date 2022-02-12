@@ -133,9 +133,8 @@ You can click the Preview link to take a look at your changes.
     <img width="40%" alt="Lunastra" src="img/Decoration/mh_09.png">
   </figure>
   <figure style="float:left;">
-    <img width="10%" alt="void" src="img/Decoration/void_01.png">
+    <img width="12%" alt="void" src="img/Decoration/void_01.png">
   </figure>
-  <figure width="3%" style="float:left;"></figure>
   <figure style="float:left;">
     <img width="45%" alt="Zinogre" src="img/Decoration/mh_07.png">
   </figure>
