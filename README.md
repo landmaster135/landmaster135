@@ -136,15 +136,14 @@ You can click the Preview link to take a look at your changes.
 <!--[END DECOIMAGE LIST]-->
 </div>
 
+<!-- Metrics -->
 <p align="left">
   <img alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
 </p>
 
 <!-- DECORATION IMAGE -->
-<!-- <div style="position:relative;"> -->
 <!--[START DECOIMAGE LIST]-->
-  <figure style="float:none;">
-    <img width="100%" alt="wave" src="img/Decoration/wave_02.png">
-  </figure>
+<figure style="float:none;">
+  <img width="100%" alt="wave" src="img/Decoration/wave_02.png">
+</figure>
 <!--[END DECOIMAGE LIST]-->
-<!-- </div> -->
