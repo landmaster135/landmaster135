@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <div style="aspect-ratio:50%;">
-<table border="1" class="decotable">
+<table border="1">
 <!--[START DECOIMAGE LIST]-->
   <tr>
     <td width="30%"><img height="390.2em" alt="Dragon" src="img/Decoration/dragon_01.png"></td>
