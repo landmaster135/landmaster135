@@ -17,11 +17,11 @@ table, tr, th, td {
 
 .decotable {
 /*   border-color: hsla(0,0,0,0)!important; */
-/*   border-color: transparent!important; */
-/*   border-spacing: 0!important; */
+  border-color: transparent!important;
+  border-spacing: 0!important;
   border: 2px solid;
-  border-color: #0E1117!important;
-/*   border-collapse: collapse!important; */
+/*   border-color: #0E1117!important; */
+  border-collapse: collapse!important;
 }
 
 @media(prefers-color-scheme: dark){
