@@ -31,11 +31,7 @@
   border-style: none;
 }
 
-@media(prefers-color-scheme: dark){
-  table {
-/*     border: 2px solid #0E1117!important; */
-  }
-}
-@media(prefers-color-scheme: light){
-  
+figure {
+  display: flex;
+  justify-content: center;
 }
