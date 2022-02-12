@@ -122,7 +122,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <!-- DECORATION IMAGE -->
-<div>
+<div style="display:flex; justify-content:space-between;">
 <!--[START DECOIMAGE LIST]-->
   <figure style="float:left;">
     <img width="40%" alt="Lunastra" src="img/Decoration/mh_09.png">
