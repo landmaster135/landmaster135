@@ -118,7 +118,7 @@ You can click the Preview link to take a look at your changes.
     <img width="28%" alt="Leviathan" src="img/Decoration/leviathan_02.png">
   </figure>
   <figure style="float:left;">
-    <img alt="Wyvern" src="img/Decoration/dragon_05.png">
+    <img width="43%" alt="Wyvern" src="img/Decoration/dragon_05.png">
   </figure>
 <!--[END DECOIMAGE LIST]-->
 </div>
