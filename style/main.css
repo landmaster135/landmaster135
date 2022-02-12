@@ -19,6 +19,7 @@ table, tr, th, td {
 /*   border-color: hsla(0,0,0,0)!important; */
   border-color: transparent!important;
   border-spacing: 0!important;
+  border-style: none;
   border: 2px solid;
 /*   border-color: #0E1117!important; */
   border-collapse: collapse!important;
