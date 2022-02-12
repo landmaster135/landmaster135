@@ -15,6 +15,6 @@ table, tr, th, td {
 }
 
 table {
-  border-color: #0E1117!important;
+  border-color: hsla(0,0,0,0)!important;
 }
 
