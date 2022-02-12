@@ -144,7 +144,7 @@ You can click the Preview link to take a look at your changes.
 <div style="position:relative;">
 <!--[START DECOIMAGE LIST]-->
   <figure style="float:none;">
-    <img width="98%" alt="wave" src="img/Decoration/wave_02.png">
+    <img width="100%" alt="wave" src="img/Decoration/wave_02.png">
   </figure>
 <!--[END DECOIMAGE LIST]-->
 </div>
