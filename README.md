@@ -109,13 +109,13 @@ You can click the Preview link to take a look at your changes.
 
 <div style="display:flex;justify-content:space-between;">
 <!--[START DECOIMAGE LIST]-->
-  <div>
+  <div width="30%">
   <img alt="Dragon" src="img/Decoration/dragon_01.png">
   </div>
-  <div>
+  <div width="30%">
     <img alt="Leviathan" src="img/Decoration/leviathan_02.png">
   </div>
-  <div>
+  <div width="30%">
     <img alt="Wyvern" src="img/Decoration/dragon_05.png">
   </div>
 <!--[END DECOIMAGE LIST]-->
