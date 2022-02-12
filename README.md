@@ -124,10 +124,10 @@ You can click the Preview link to take a look at your changes.
 <!-- DECORATION IMAGE -->
 <div style="position:relative;">
 <!--[START DECOIMAGE LIST]-->
-  <figure style="float:left;">
+  <figure style="position:absolute;">
     <img width="40%" alt="Lunastra" src="img/Decoration/mh_09.png">
   </figure>
-  <figure style="float:left; position:absolute; right:0;">
+  <figure style="position:absolute; right:0;">
     <img width="45%" alt="Zinogre" src="img/Decoration/mh_07.png">
   </figure>
 <!--   <figure style="float:left;">
