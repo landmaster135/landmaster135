@@ -122,12 +122,12 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <!-- DECORATION IMAGE -->
-<div style="display: flex; justify-content: space-between;">
+<div style="position:relative;">
 <!--[START DECOIMAGE LIST]-->
-  <figure>
+  <figure style="position:absolute;">
     <img width="40%" alt="Lunastra" src="img/Decoration/mh_09.png">
   </figure>
-  <figure>
+  <figure style="position:absolute; right:0;">
     <img width="45%" alt="Zinogre" src="img/Decoration/mh_07.png">
   </figure>
 <!--   <figure style="float:left;">
