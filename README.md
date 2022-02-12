@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <div>
-<table style="border: 2px solid #0E1117; border-color: hsla(0,0,0,0);">
+<table>
 <!--[START DECOIMAGE LIST]-->
   <tr>
     <td width="29%"><img class="decoimage" alt="Dragon" src="img/Decoration/dragon_01.png"></td>
