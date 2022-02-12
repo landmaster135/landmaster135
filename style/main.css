@@ -2,6 +2,6 @@
   height: calc(100vw / 2);
 }
 
-table, td, th {
+table, td, th, tr {
   border: none;
 }
