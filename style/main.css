@@ -22,7 +22,7 @@
   border-style: none;
   border: 2px solid;
 /*   border-color: #0E1117!important; */
-  border-collapse: collapse!important;
+/*   border-collapse: collapse!important; */
 }
 
 @media(prefers-color-scheme: dark){
