@@ -113,9 +113,9 @@ You can click the Preview link to take a look at your changes.
 <table>
 <!--[START DECOIMAGE LIST]-->
   <tr>
-    <td style="border:none;" width="29%"><img class="decoimage" alt="Dragon" src="img/Decoration/dragon_01.png"></td>
-    <td style="border:none;" width="28%"><img class="decoimage" alt="Leviathan" src="img/Decoration/leviathan_02.png"></td>
-    <td style="border:none;"><img class="decoimage" alt="Wyvern" src="img/Decoration/dragon_05.png"></td>
+    <td width="29%"><img class="decoimage" alt="Dragon" src="img/Decoration/dragon_01.png"></td>
+    <td width="28%"><img class="decoimage" alt="Leviathan" src="img/Decoration/leviathan_02.png"></td>
+    <td><img class="decoimage" alt="Wyvern" src="img/Decoration/dragon_05.png"></td>
   </tr>
 <!--[END DECOIMAGE LIST]-->
 </table>
