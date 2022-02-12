@@ -112,7 +112,7 @@ You can click the Preview link to take a look at your changes.
 <div>
 <table class="decotable">
 <!--[START DECOIMAGE LIST]-->
-  <tr>
+  <tr class="decotr">
     <td width="29%"><img class="decoimage" alt="Dragon" src="img/Decoration/dragon_01.png"></td>
     <td width="28%"><img class="decoimage" alt="Leviathan" src="img/Decoration/leviathan_02.png"></td>
     <td ><img class="decoimage" alt="Wyvern" src="img/Decoration/dragon_05.png"></td>
