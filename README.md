@@ -109,13 +109,13 @@ You can click the Preview link to take a look at your changes.
   <img alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
 </p>
 
-<div style="aspect-ratio:50%;">
+<div>
 <table border="1">
 <!--[START DECOIMAGE LIST]-->
   <tr>
-    <td width="30%"><img height="390.2em" alt="Dragon" src="img/Decoration/dragon_01.png"></td>
-    <td width="30%"><img height="390.2em" alt="Leviathan" src="img/Decoration/leviathan_02.png"></td>
-    <td width="40%"><img height="390.2em" alt="Wyvern" src="img/Decoration/dragon_05.png"></td>
+    <td width="30%"><img height="calc(100vw / 2)" alt="Dragon" src="img/Decoration/dragon_01.png"></td>
+    <td width="30%"><img height="calc(100vw / 2)" alt="Leviathan" src="img/Decoration/leviathan_02.png"></td>
+    <td width="40%"><img height="calc(100vw / 2)" alt="Wyvern" src="img/Decoration/dragon_05.png"></td>
   </tr>
 <!--[END DECOIMAGE LIST]-->
 </table>
