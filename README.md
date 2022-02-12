@@ -124,12 +124,12 @@ You can click the Preview link to take a look at your changes.
 <!-- DECORATION IMAGE -->
 <div style="display: flex; justify-content: space-between;">
 <!--[START DECOIMAGE LIST]-->
-  <div>
+  <figure>
     <img width="40%" alt="Lunastra" src="img/Decoration/mh_09.png">
-  </div>
-  <div>
+  </figure>
+  <figure>
     <img width="45%" alt="Zinogre" src="img/Decoration/mh_07.png">
-  </div>
+  </figure>
 <!--   <figure style="float:left;">
     <img width="42%" alt="Wyvern" src="img/Decoration/dragon_05.png">
   </figure> -->
