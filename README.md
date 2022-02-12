@@ -141,10 +141,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <!-- DECORATION IMAGE -->
-<div style="position:relative;">
+<!-- <div style="position:relative;"> -->
 <!--[START DECOIMAGE LIST]-->
   <figure style="float:none;">
     <img width="100%" alt="wave" src="img/Decoration/wave_02.png">
   </figure>
 <!--[END DECOIMAGE LIST]-->
-</div>
+<!-- </div> -->
