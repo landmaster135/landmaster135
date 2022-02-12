@@ -107,7 +107,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
 </p>
 
-<div style="display:flex; justify-content:space-between;">
+
 <!--[START DECOIMAGE LIST]-->
   <figure style="float:left;">
     <img height="390.2em" alt="Dragon" src="img/Decoration/dragon_01.png">
@@ -119,4 +119,3 @@ You can click the Preview link to take a look at your changes.
     <img height="390.2em" alt="Wyvern" src="img/Decoration/dragon_05.png">
   </figure>
 <!--[END DECOIMAGE LIST]-->
-</div>
