@@ -3,6 +3,6 @@
 }
 
 table, td, th, tr {
-  border: none;
+/*   border: none; */
   border: 1px solid #0E1117;
 }
