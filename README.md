@@ -109,13 +109,13 @@ You can click the Preview link to take a look at your changes.
 
 <ul style="display: flex;">
 <!--[START DECOIMAGE LIST]-->
-  <li>
+  <li style="list-style: none;">
     <img height="390.2em" alt="Dragon" src="img/Decoration/dragon_01.png">
   </li>
-  <li>
+  <li style="list-style: none;">
     <img height="390.2em" alt="Leviathan" src="img/Decoration/leviathan_02.png">
   </li>
-  <li>
+  <li style="list-style: none;">
     <img height="390.2em" alt="Wyvern" src="img/Decoration/dragon_05.png">
   </li>
 <!--[END DECOIMAGE LIST]-->
