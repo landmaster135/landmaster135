@@ -109,8 +109,14 @@ You can click the Preview link to take a look at your changes.
 
 <div style="display:flex; justify-content:space-between;">
 <!--[START DECOIMAGE LIST]-->
-  <img height="390.2em" alt="Dragon" src="img/Decoration/dragon_01.png">
-  <img height="390.2em" alt="Leviathan" src="img/Decoration/leviathan_02.png">
-  <img height="390.2em" alt="Wyvern" src="img/Decoration/dragon_05.png">
+  <div width="30%">
+    <img height="390.2em" alt="Dragon" src="img/Decoration/dragon_01.png">
+  </div>
+  <div width="30%">
+    <img height="390.2em" alt="Leviathan" src="img/Decoration/leviathan_02.png">
+  </div>
+  <div width="40%">
+    <img height="390.2em" alt="Wyvern" src="img/Decoration/dragon_05.png">
+  </div>
 <!--[END DECOIMAGE LIST]-->
 </div>
