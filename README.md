@@ -111,11 +111,7 @@ You can click the Preview link to take a look at your changes.
 <!--[START DECOIMAGE LIST]-->
   <tr>
     <td><img height="390.2em" alt="Dragon" src="img/Decoration/dragon_01.png"></td>
-  </tr>
-  <tr>
     <td><img height="390.2em" alt="Leviathan" src="img/Decoration/leviathan_02.png"></td>
-  </tr>
-  <tr>
     <td><img height="390.2em" alt="Wyvern" src="img/Decoration/dragon_05.png"></td>
   </tr>
 <!--[END DECOIMAGE LIST]-->
