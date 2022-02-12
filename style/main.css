@@ -14,9 +14,7 @@ table, tr, th, td {
   background:transparent;
 }
 
-table {
-  border-collapse:collapse;
-  border-spacing:0;
+div table {
   border-color: #0E1117!important;
 }
 
