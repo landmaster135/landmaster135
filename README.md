@@ -107,10 +107,10 @@ You can click the Preview link to take a look at your changes.
   <img alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
 </p>
 
-<p align="left" style="page-break-inside: avoid;">
+<p align="left">
 <!--[START DECOIMAGE LIST]-->
-  <img height="390.2em" alt="Dragon" src="img/Decoration/dragon_01.png">
-  <img height="390.2em" alt="Leviathan" src="img/Decoration/leviathan_02.png">
-  <img height="390.2em" alt="Wyvern" src="img/Decoration/dragon_05.png">
+  <img height="30%" alt="Dragon" src="img/Decoration/dragon_01.png">
+  <img height="30%" alt="Leviathan" src="img/Decoration/leviathan_02.png">
+  <img height="40%" alt="Wyvern" src="img/Decoration/dragon_05.png">
 <!--[END DECOIMAGE LIST]-->
 </p>
