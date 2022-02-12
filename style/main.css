@@ -25,6 +25,12 @@
 /*   border-collapse: collapse!important; */
 }
 
+tr {
+  border-color: transparent!important;
+  border-spacing: 0!important;
+  border-style: none;
+}
+
 @media(prefers-color-scheme: dark){
   table {
 /*     border: 2px solid #0E1117!important; */
