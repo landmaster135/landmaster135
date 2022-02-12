@@ -111,8 +111,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 <!--[START DECOIMAGE LIST]-->
-  <img alt="Dragon" src="img/Decoration/dragon_01.png">
-  <img alt="Leviathan" src="img/Decoration/leviathan_02.png">
-  <img alt="Wyvern" src="img/Decoration/dragon_05.png">
+  <img width="29%" alt="Dragon" src="img/Decoration/dragon_01.png">
+  <img width="28%" alt="Leviathan" src="img/Decoration/leviathan_02.png">
+  <img width="43%" alt="Wyvern" src="img/Decoration/dragon_05.png">
 <!--[END DECOIMAGE LIST]-->
 </p>
