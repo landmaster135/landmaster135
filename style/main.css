@@ -19,7 +19,8 @@ table {
 /*   border-color: hsla(0,0,0,0)!important; */
 /*   border-color: transparent!important; */
 /*   border-spacing: 0!important; */
-  border: 2px solid #0E1117!important;
+  border: 2px solid;
+  border-color: #0E1117!important;
 /*   border-collapse: collapse!important; */
 }
 
