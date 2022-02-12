@@ -112,7 +112,7 @@ You can click the Preview link to take a look at your changes.
 <div>
 <!--[START DECOIMAGE LIST]-->
   <figure style="float:left;">
-    <img width="29%" alt="Dragon" src="img/Decoration/dragon_01.png">
+    <img width="28%" alt="Dragon" src="img/Decoration/dragon_01.png">
   </figure>
   <figure style="float:left;">
     <img width="27%" alt="Leviathan" src="img/Decoration/leviathan_02.png">
