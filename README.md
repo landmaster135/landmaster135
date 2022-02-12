@@ -105,7 +105,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>
 <!-- [<img align="left" alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">]() -->
-  <img align="left" alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">>
+  <img align="left" alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
 </p>
 
 <p align="left">
