@@ -25,7 +25,7 @@
 /*   border-collapse: collapse!important; */
 }
 
-tr {
+.decotr {
   border-color: transparent!important;
   border-spacing: 0!important;
   border-style: none;
