@@ -40,3 +40,4 @@ jobs:
           plugin_skyline_quality: 0.5
           plugin_skyline_year: current-year
           delay: 12
+          use_prebuilt_image: yes
