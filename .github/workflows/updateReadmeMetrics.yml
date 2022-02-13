@@ -38,6 +38,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics-anilist.svg
+          token: NOT_NEEDED
 #           use_prebuilt_image: yes
 #           delay: 60
 #           plugin_anilist: yes
