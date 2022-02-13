@@ -10,7 +10,8 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Github_Metrics
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token here: https://github.com/settings/tokens
           # The following scopes are required:
@@ -25,15 +26,20 @@ jobs:
           # Options
           user: Landmaster135
           template: classic
-#           base: header, activity, community, repositories, metadata
-#           use_prebuilt_image: yes
-#           delay: 60
-#           plugin_isocalendar: yes
-#           plugin_isocalendar_duration: half-year
+          base: header, activity, community, repositories, metadata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 #           plugin_skyline: yes
 #           plugin_skyline_frames: 60
 #           plugin_skyline_quality: 0.5
 #           plugin_skyline_year: current-year
+
+      - name: Github_Metrics_Anilist
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-anilist.svg
+#           use_prebuilt_image: yes
+#           delay: 60
 #           plugin_anilist: yes
 #           plugin_anilist_limit: 2
 #           plugin_anilist_limit_characters: 22
