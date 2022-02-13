@@ -24,11 +24,11 @@ jobs:
           # Options
           user: Landmaster135
           template: classic
-          base: header, activity, community, repositories, metadata
+#           base: header, activity, community, repositories, metadata
           use_prebuilt_image: yes
           delay: 60
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+#           plugin_isocalendar: yes
+#           plugin_isocalendar_duration: half-year
 #           plugin_skyline: yes
 #           plugin_skyline_frames: 60
 #           plugin_skyline_quality: 0.5
