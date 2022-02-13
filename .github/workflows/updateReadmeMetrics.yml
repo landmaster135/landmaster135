@@ -41,18 +41,11 @@ jobs:
           token: NOT_NEEDED
 #           use_prebuilt_image: yes
 #           delay: 60
-#           plugin_anilist: yes
-#           plugin_anilist_limit: 2
-#           plugin_anilist_limit_characters: 22
-#           plugin_anilist_medias: anime
-#           plugin_anilist_sections: favorites, characters, watching
-#           plugin_anilist_shuffle: yes
-#           plugin_anilist_user: Landmaster135
           plugin_anilist: yes
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, characters, watching
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 8
-          plugin_anilist_shuffle: yes
-          plugin_anilist_limit_characters: 22
+#           plugin_anilist_shuffle: yes
+#           plugin_anilist_limit_characters: 22
 #           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           plugin_anilist_user: kinkinbeer135ml
