@@ -25,7 +25,7 @@ jobs:
           user: Landmaster135
           template: classic
 #           base: header, activity, community, repositories, metadata
-          use_prebuilt_image: yes
+#           use_prebuilt_image: yes
 #           delay: 60
 #           plugin_isocalendar: yes
 #           plugin_isocalendar_duration: half-year
