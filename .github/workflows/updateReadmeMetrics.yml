@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Github_Metrics
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           # Your GitHub token here: https://github.com/settings/tokens
@@ -35,6 +36,7 @@ jobs:
 #           plugin_skyline_year: current-year
 
       - name: Github_Metrics_Anilist
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: github-metrics-anilist.svg
