@@ -111,6 +111,7 @@ You can click the Preview link to take a look at your changes.
 ## Blog, SNS
 
 <p>
+  <a><img src="https://gpvc.arturio.dev/Landmaster135" alt="profile views"></a>
   <a href="https://www.endorphinbath.com" target="_blank"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B.svg?&style=flat&logo=Wordpress&logoColor=white" /></a>
   <a href="https://github.com/Landmaster135" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/penguinbeer1351" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
