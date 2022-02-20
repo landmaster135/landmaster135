@@ -91,6 +91,8 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [PCブラウザ上のYouTubeで再生している曲をLast.fmでscrobbleしようと思ったけど、10分でやめた話](https://www.endorphinbath.com/youtube-lastfm-quit-scrobbling/)
+- ![](img/endorphinbath.png) [【Android】Pulsarで再生している曲をLast.fmでscrobbleする](https://www.endorphinbath.com/android-lastfm-pulsar-music/)
 - ![](img/endorphinbath.png) [【VSCode】でPythonのfrom文やimport文の順番が勝手に入れ替わらないようにする（”editor.formatOnPaste”を使用）](https://www.endorphinbath.com/vscode-setting-python-format-false/)
 - ![](img/endorphinbath.png) [【Markdown】Mermaid.jsのコードを変えて描画の変化を観察してみた](https://www.endorphinbath.com/mermaid-drawing-variation-by-code/)
 - ![](img/endorphinbath.png) [【Node.js】Markdown内のimgタグの画像の大きさを変える。](https://www.endorphinbath.com/nodejs-markdown-scale-image/)
@@ -104,8 +106,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/qiita.png) [【Node.js、Javascript】SeleniumでOffice365にログインする](https://qiita.com/Landmaster135/items/9d0064e86d42297ea84b)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで疑似要素の属性値を取得する](https://qiita.com/Landmaster135/items/c0f26163950425c50167)
 - ![](img/zenn.png) [【Node.js】Qiita/Zennの投稿をGitHubのProfileに自動反映する。（半分ポエム）](https://zenn.dev/kinkinbeer135ml/articles/968c7f8a5f0767)
-- ![](img/qiita.png) [Github Actionsで別のリポジトリにSSH接続するための手順](https://qiita.com/Landmaster135/items/f426b499411fbd8dbe90)
-- ![](img/qiita.png) [Githubにある自作のnpmモジュールをnpm installしてENOENTなエラーが出た時](https://qiita.com/Landmaster135/items/2cff3d8673a07cb4ea93)
 <!--[END POSTS LIST]-->
 
 ## Blog, SNS
