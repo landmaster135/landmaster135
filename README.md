@@ -91,6 +91,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts
 
 <!--[START POSTS LIST]-->
+- ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/endorphinbath.png) [【GCP】GitHub Actionsからキーなしで認証するための設定](https://www.endorphinbath.com/gcp-github-actions-auth-nokeys/)
 - ![](img/endorphinbath.png) [【Python】Google Spreadsheetを編集するために初期設定からのまとめ](https://www.endorphinbath.com/python-gss-setting-to-edit/)
 - ![](img/endorphinbath.png) [【Discord API】Interactionの応答のタイムアウトを考えて実装する（pycord使用）](https://www.endorphinbath.com/discord-api-about-timeout/)
@@ -105,7 +106,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
 - ![](img/qiita.png) [【Node.js、Javascript】SeleniumでOffice365にログインする](https://qiita.com/landmaster135/items/9d0064e86d42297ea84b)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで疑似要素の属性値を取得する](https://qiita.com/landmaster135/items/c0f26163950425c50167)
-- ![](img/zenn.png) [【Node.js】Qiita/Zennの投稿をGitHubのProfileに自動反映する。（半分ポエム）](https://zenn.dev/kinkinbeer135ml/articles/968c7f8a5f0767)
 <!--[END POSTS LIST]-->
 
 ## Blog, SNS
