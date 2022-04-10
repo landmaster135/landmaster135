@@ -37,7 +37,7 @@ jobs:
 
       - name: Github_Metrics_Anilist
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: github-metrics-anilist.svg
           token: NOT_NEEDED
