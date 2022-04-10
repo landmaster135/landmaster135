@@ -43,6 +43,7 @@ jobs:
           token: NOT_NEEDED
 #           use_prebuilt_image: yes
 #           delay: 60
+          base: ""
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
