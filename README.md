@@ -91,6 +91,8 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Render.com】Pythonで作成したDiscord用のボットをGitHubリポジトリからデプロイするやり方](https://www.endorphinbath.com/renderdotcom-how-to-deploy-discord-bot/)
+- ![](img/endorphinbath.png) [【Excel、GSS】僕がよく仕事で使っている関数８選](https://www.endorphinbath.com/excel-daily-8-functions/)
 - ![](img/endorphinbath.png) [【筋トレ、健康】半年間だけ懸垂したら、回数が増えてきて嬉しい話](https://www.endorphinbath.com/pull-up-6month/)
 - ![](img/endorphinbath.png) [5年ぶりに内軟骨種とかいう病気が再発して、右手の人差し指を手術した時の話](https://www.endorphinbath.com/life-recurrence-of-enchondroma-for-the-past-5-years/)
 - ![](img/endorphinbath.png) [【Heroku】GitHubのリポジトリから新しいアプリをデプロイするときに「Item could not be retrieved: Internal Server Error」が出た場合](https://www.endorphinbath.com/heroku-see-internal-server-error-while-deploying/)
@@ -99,8 +101,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【読書】「GAMIFY ゲーミファイ―エンゲージメントを高めるゲーミフィケーションの新しい未来」を読んだ感想](https://www.endorphinbath.com/book-gamify-gamification-engagement/)
 - ![](img/endorphinbath.png) [【OutSystems】ローコード開発をしていて「なんか惜しいよなあ」と思うところ](https://www.endorphinbath.com/outsystems-disappointed-to-development/)
 - ![](img/endorphinbath.png) [【Bash、Zsh】Macでスクショしたファイル名を連番にワンライナーでリネームする](https://www.endorphinbath.com/bash-mac-rename-screenshot/)
-- ![](img/endorphinbath.png) [【Google Analytics】QiitaとZennのアクセス解析をするための設定方法](https://www.endorphinbath.com/googleanalytics-qiita-zenn-setting/)
-- ![](img/endorphinbath.png) [【Python】inputを使った処理をpytestでunittestしたい（monkeypatchでmockする）](https://www.endorphinbath.com/python-pytest-input-by-monkeypatch/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
