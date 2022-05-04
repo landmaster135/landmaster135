@@ -91,16 +91,16 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
-- ![](img/endorphinbath.png) [【Render.com】Pythonで作成したDiscord用のボットをGitHubリポジトリからデプロイするやり方](https://www.endorphinbath.com/renderdotcom-how-to-deploy-discord-bot/)
+- ![](img/endorphinbath.png) [【Googleスプレッドシート】Excelとの操作感などの違いを比較する](https://www.endorphinbath.com/gss-comparison-to-excel/)
+- ![](img/endorphinbath.png) [【Excel、Googleスプレッドシート】表や図を作成するスピードを上達させるために気をつけるポイント５選](https://www.endorphinbath.com/creating-table-improving/)
+- ![](img/endorphinbath.png) [【GAS】まとめ：Google Apps Scriptのスクリプトエディタで使用できるショートカットキー（Mac版）](https://www.endorphinbath.com/gas-shortcutkey-for-script-editor-mac/)
+- ![](img/endorphinbath.png) [【Render.com】Pythonで作成したDiscord用のボットをGitHubリポジトリからデプロイするやり方（Dockerも利用）](https://www.endorphinbath.com/renderdotcom-how-to-deploy-discord-bot/)
+- ![](img/endorphinbath.png) [【ゲーム】「ペンギンの島」っていうゲームを始めてかれこれ２年以上経ってるから語るわ](https://www.endorphinbath.com/penguinisle-telling-charm/)
 - ![](img/endorphinbath.png) [【Excel、GSS】僕がよく仕事で使っている関数８選](https://www.endorphinbath.com/excel-daily-8-functions/)
 - ![](img/endorphinbath.png) [【筋トレ、健康】半年間だけ懸垂したら、回数が増えてきて嬉しい話](https://www.endorphinbath.com/pull-up-6month/)
 - ![](img/endorphinbath.png) [5年ぶりに内軟骨種とかいう病気が再発して、右手の人差し指を手術した時の話](https://www.endorphinbath.com/life-recurrence-of-enchondroma-for-the-past-5-years/)
 - ![](img/endorphinbath.png) [【Heroku】GitHubのリポジトリから新しいアプリをデプロイするときに「Item could not be retrieved: Internal Server Error」が出た場合](https://www.endorphinbath.com/heroku-see-internal-server-error-while-deploying/)
 - ![](img/endorphinbath.png) [【読書】2022年4月に読んだ本の一覧](https://www.endorphinbath.com/list-of-book-read-in-202204/)
-- ![](img/endorphinbath.png) [【Unreal Engine 5】UnrealEditorの実行ファイルのパス](https://www.endorphinbath.com/unrealengine-where-is-exe-path/)
-- ![](img/endorphinbath.png) [【読書】「GAMIFY ゲーミファイ―エンゲージメントを高めるゲーミフィケーションの新しい未来」を読んだ感想](https://www.endorphinbath.com/book-gamify-gamification-engagement/)
-- ![](img/endorphinbath.png) [【OutSystems】ローコード開発をしていて「なんか惜しいよなあ」と思うところ](https://www.endorphinbath.com/outsystems-disappointed-to-development/)
-- ![](img/endorphinbath.png) [【Bash、Zsh】Macでスクショしたファイル名を連番にワンライナーでリネームする](https://www.endorphinbath.com/bash-mac-rename-screenshot/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
