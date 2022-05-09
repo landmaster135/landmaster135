@@ -91,6 +91,8 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【GAS】Google Apps Scriptで作った自作関数に対してテストコードを書けるライブラリ「TestGAS」を作りました！](https://www.endorphinbath.com/gas-testgas-test-code-for-user-defined-functions/)
+- ![](img/endorphinbath.png) [【GAS】クラスを作って外部ライブラリとして呼び出したい場合は、ファクトリメソッドを作ろう](https://www.endorphinbath.com/gas-make-factory-method-to-call-outer-class/)
 - ![](img/endorphinbath.png) [【Googleスプレッドシート、GAS】選択した範囲をHTMLのtableタグとしてテキスト出力する](https://www.endorphinbath.com/gas-selected-area-to-html-table/)
 - ![](img/endorphinbath.png) [【Googleスプレッドシート】Excelとの操作感などの違いを比較する](https://www.endorphinbath.com/gss-comparison-to-excel/)
 - ![](img/endorphinbath.png) [【Excel、Googleスプレッドシート】表や図を作成するスピードを上達させるために気をつけるポイント５選](https://www.endorphinbath.com/creating-table-improving/)
@@ -99,8 +101,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【ゲーム】「ペンギンの島」っていうゲームを始めてかれこれ２年以上経ってるから語るわ](https://www.endorphinbath.com/penguinisle-telling-charm/)
 - ![](img/endorphinbath.png) [【Excel、GSS】僕がよく仕事で使っている関数８選](https://www.endorphinbath.com/excel-daily-8-functions/)
 - ![](img/endorphinbath.png) [【筋トレ、健康】半年間だけ懸垂したら、回数が増えてきて嬉しい話](https://www.endorphinbath.com/pull-up-6month/)
-- ![](img/endorphinbath.png) [5年ぶりに内軟骨種とかいう病気が再発して、右手の人差し指を手術した時の話](https://www.endorphinbath.com/life-recurrence-of-enchondroma-for-the-past-5-years/)
-- ![](img/endorphinbath.png) [【Heroku】GitHubのリポジトリから新しいアプリをデプロイするときに「Item could not be retrieved: Internal Server Error」が出た場合](https://www.endorphinbath.com/heroku-see-internal-server-error-while-deploying/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
