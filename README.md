@@ -91,6 +91,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【GAS】Google Apps Scriptで書いたコードをGiitHubで公開するための段取り](https://www.endorphinbath.com/gas-setup-to-publish-github/)
 - ![](img/endorphinbath.png) [【Markdown】AniListのAbout欄を編集する](https://www.endorphinbath.com/markdown-anilist-about-space/)
 - ![](img/endorphinbath.png) [【GAS】Google Apps Scriptで作った自作関数に対してテストコードを書けるライブラリ「TestGAS」を作りました！](https://www.endorphinbath.com/gas-testgas-test-code-for-user-defined-functions/)
 - ![](img/endorphinbath.png) [【GAS】クラスを作って外部ライブラリとして呼び出したい場合は、ファクトリメソッドを作ろう](https://www.endorphinbath.com/gas-make-factory-method-to-call-outer-class/)
@@ -100,7 +101,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【GAS】まとめ：Google Apps Scriptのスクリプトエディタで使用できるショートカットキー（Mac版）](https://www.endorphinbath.com/gas-shortcutkey-for-script-editor-mac/)
 - ![](img/endorphinbath.png) [【Render.com】Pythonで作成したDiscord用のボットをGitHubリポジトリからデプロイするやり方（Dockerも利用）](https://www.endorphinbath.com/renderdotcom-how-to-deploy-discord-bot/)
 - ![](img/endorphinbath.png) [【ゲーム】「ペンギンの島」っていうゲームを始めてかれこれ２年以上経ってるから語るわ](https://www.endorphinbath.com/penguinisle-telling-charm/)
-- ![](img/endorphinbath.png) [【Excel、GSS】僕がよく仕事で使っている関数８選](https://www.endorphinbath.com/excel-daily-8-functions/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
