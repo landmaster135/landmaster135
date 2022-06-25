@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <!-- No stylesheet execept github-markdown-css is readable in GitHub -->
 <!-- <link href="style/main.css" rel="stylesheet"></link> -->
 
-<div>
+<div align="left">
 <section>
   <p align="left">
     <img width="40%" alt="kinkinbeer135ml" src="img/Decoration/beer.jpg">
