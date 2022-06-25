@@ -12,10 +12,13 @@ You can click the Preview link to take a look at your changes.
 <!-- No stylesheet execept github-markdown-css is readable in GitHub -->
 <!-- <link href="style/main.css" rel="stylesheet"></link> -->
 
-<p align="left">
+<div>
+<section>
   <p align="left">
     <img width="40%" alt="kinkinbeer135ml" src="img/Decoration/beer.jpg">
   </p>
+</section>
+<section>
   <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="150.2em" alt="Landmaster135's GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=Landmaster135&theme=tokyonight&show_icons=true" />
@@ -24,13 +27,15 @@ You can click the Preview link to take a look at your changes.
       <img height="150.2em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Landmaster135&layout=compact&theme=tokyonight" />
     </a>
   </p>
-</p>
-  <p>
+</section>
+</div>
+<div>
+  <section>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img height="100.2em" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Landmaster135&theme=dracula&column=7" />
     </a>
-  </p>
-
+  </section>
+</div>
 
 <!-- <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
