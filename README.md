@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【読書】2022年6月に読んだ本の一覧](https://www.endorphinbath.com/list-of-book-read-in-202206/)
 - ![](img/endorphinbath.png) [【読書】2022年5月に読んだ本の一覧](https://www.endorphinbath.com/list-of-book-read-in-202205/)
 - ![](img/endorphinbath.png) [【GAS】Google Apps Scriptで書いたコードをGiitHubで公開するための段取り](https://www.endorphinbath.com/gas-setup-to-publish-github/)
 - ![](img/endorphinbath.png) [【Markdown】AniListのAbout欄を編集する](https://www.endorphinbath.com/markdown-anilist-about-space/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【Googleスプレッドシート】Excelとの操作感などの違いを比較する](https://www.endorphinbath.com/gss-comparison-to-excel/)
 - ![](img/endorphinbath.png) [【Excel、Googleスプレッドシート】表や図を作成するスピードを上達させるために気をつけるポイント５選](https://www.endorphinbath.com/creating-table-improving/)
 - ![](img/endorphinbath.png) [【GAS】まとめ：Google Apps Scriptのスクリプトエディタで使用できるショートカットキー（Mac版）](https://www.endorphinbath.com/gas-shortcutkey-for-script-editor-mac/)
-- ![](img/endorphinbath.png) [【Render.com】Pythonで作成したDiscord用のボットをGitHubリポジトリからデプロイするやり方（Dockerも利用）](https://www.endorphinbath.com/renderdotcom-how-to-deploy-discord-bot/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
