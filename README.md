@@ -80,6 +80,9 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【GAS】自分がGoogle Apps Scriptで使うファイルIDとかフォルダIDを管理するライブラリを作ればいいじゃん](https://www.endorphinbath.com/gas-management-of-id-frequently-used/)
+- ![](img/endorphinbath.png) [【Googleスプレッドシート、GAS】選択した範囲をcsvやtsvとして画面上に出力する](https://www.endorphinbath.com/gas-selected-area-to-html-table-2/)
+- ![](img/endorphinbath.png) [【Mac】頻繁に使う便利なショートカットキー16選の一覧](https://www.endorphinbath.com/mac-shortcutkey-frequently-using-16/)
 - ![](img/endorphinbath.png) [【Android、アプリ】スマホで撮った写真を保存・管理する時にいつも使っている「re.*(Renamer)」を紹介する](https://www.endorphinbath.com/android-app-rename-files/)
 - ![](img/endorphinbath.png) [【Mac、アプリ】画像の容量を圧縮してくれるアプリを比較してみた。](https://www.endorphinbath.com/mac-app-squeezing-image/)
 - ![](img/endorphinbath.png) [【iPhone、Android、ゲーム】僕が今までそれなりにやってきたスマホゲームの思い出を書きます（後編）](https://www.endorphinbath.com/memorable-game-smartphone-2/)
@@ -87,9 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【報告、マンガ】おれは会社をとうとう辞めたぞ～！！ジョジョ～！！](https://www.endorphinbath.com/retire-company/)
 - ![](img/endorphinbath.png) [【Google Spreadsheet】まとめ：Googleスプレッドシートで使用できるショートカットキー（Mac版）](https://www.endorphinbath.com/gss-shortcutkey-for-mac/)
 - ![](img/endorphinbath.png) [【Python】1つのファイル内における関数の依存関係をMermaidの書式で出力する](https://www.endorphinbath.com/python-mermaid-print-dependencies/)
-- ![](img/endorphinbath.png) [DaVinci Resolve 18でゆっくり動画っぽいものをPythonで効率的に作ろうとしたけど断念した話](https://www.endorphinbath.com/davinciresolve-yukkuri-giveup/)
-- ![](img/endorphinbath.png) [【読書】2022年8月に読んだ本の一覧](https://www.endorphinbath.com/list-of-book-read-in-202208/)
-- ![](img/endorphinbath.png) [【読書】2022年7月に読んだ本の一覧](https://www.endorphinbath.com/list-of-book-read-in-202207/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
