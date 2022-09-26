@@ -80,16 +80,16 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Satisfactory】トカゲイヌの楽園よ永遠に・・・ 〜 Goodbye, Lizard Doggo Paradise 〜](https://www.endorphinbath.com/satisfactory-goodbye-doggo-paradise/)
+- ![](img/endorphinbath.png) [【Satisfactory】レアな資源の場所（ウラン、SAM）](https://www.endorphinbath.com/satisfactory-where-is-rare-item1/)
+- ![](img/endorphinbath.png) [【Satisfactory】レアな資源の場所（窒素ガス）](https://www.endorphinbath.com/satisfactory-where-is-rare-item4/)
+- ![](img/endorphinbath.png) [【Satisfactory】レアな資源の場所（硫黄）](https://www.endorphinbath.com/satisfactory-where-is-rare-item3/)
 - ![](img/endorphinbath.png) [【Satisfactory】レアな資源の場所（石英）](https://www.endorphinbath.com/satisfactory-where-is-rare-item2/)
 - ![](img/endorphinbath.png) [【動画作成、YouTube】ゆっくり実況動画をYMM4とDaVinci Resolve＋VOICEVOXで作る速さを比べてみた](https://www.endorphinbath.com/youtube-comparison-to-ymm4-and-dvr-voicevox/)
 - ![](img/endorphinbath.png) [【GAS】GoogleドライブにあるフォルダとファイルがGoogle Apps Scriptに使用されているかどうかを確認する](https://www.endorphinbath.com/gas-files-are-used-in-script/)
 - ![](img/endorphinbath.png) [【GAS】自分がGoogle Apps Scriptで使うファイルIDとかフォルダIDを管理するライブラリを作ればいいじゃん](https://www.endorphinbath.com/gas-management-of-id-frequently-used/)
 - ![](img/endorphinbath.png) [【Googleスプレッドシート、GAS】選択した範囲をcsvやtsvとして画面上に出力する](https://www.endorphinbath.com/gas-selected-area-to-html-table-2/)
 - ![](img/endorphinbath.png) [【Mac】頻繁に使う便利なショートカットキー16選の一覧](https://www.endorphinbath.com/mac-shortcutkey-frequently-using-16/)
-- ![](img/endorphinbath.png) [【Android、アプリ】スマホで撮った写真を保存・管理する時にいつも使っている「re.*(Renamer)」を紹介する](https://www.endorphinbath.com/android-app-rename-files/)
-- ![](img/endorphinbath.png) [【Mac、アプリ】画像の容量を圧縮してくれるアプリを比較してみた。](https://www.endorphinbath.com/mac-app-squeezing-image/)
-- ![](img/endorphinbath.png) [【iPhone、Android、ゲーム】僕が今までそれなりにやってきたスマホゲームの思い出を書きます（後編）](https://www.endorphinbath.com/memorable-game-smartphone-2/)
-- ![](img/endorphinbath.png) [【iPhone、Android、ゲーム】僕が今までそれなりにやってきたスマホゲームの思い出を書きます（前編）](https://www.endorphinbath.com/memorable-game-smartphone-1/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
