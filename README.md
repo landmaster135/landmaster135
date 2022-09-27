@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【デジタル断捨離】自分が持つデータのサイズを減らす方法の3ステップ](https://www.endorphinbath.com/declutter-size-of-digital-data/)
 - ![](img/endorphinbath.png) [【Satisfactory】トカゲイヌの楽園よ永遠に・・・ 〜 Goodbye, Lizard Doggo Paradise 〜](https://www.endorphinbath.com/satisfactory-goodbye-doggo-paradise/)
 - ![](img/endorphinbath.png) [【Satisfactory】レアな資源の場所（ウラン、SAM）](https://www.endorphinbath.com/satisfactory-where-is-rare-item1/)
 - ![](img/endorphinbath.png) [【Satisfactory】レアな資源の場所（窒素ガス）](https://www.endorphinbath.com/satisfactory-where-is-rare-item4/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【GAS】GoogleドライブにあるフォルダとファイルがGoogle Apps Scriptに使用されているかどうかを確認する](https://www.endorphinbath.com/gas-files-are-used-in-script/)
 - ![](img/endorphinbath.png) [【GAS】自分がGoogle Apps Scriptで使うファイルIDとかフォルダIDを管理するライブラリを作ればいいじゃん](https://www.endorphinbath.com/gas-management-of-id-frequently-used/)
 - ![](img/endorphinbath.png) [【Googleスプレッドシート、GAS】選択した範囲をcsvやtsvとして画面上に出力する](https://www.endorphinbath.com/gas-selected-area-to-html-table-2/)
-- ![](img/endorphinbath.png) [【Mac】頻繁に使う便利なショートカットキー16選の一覧](https://www.endorphinbath.com/mac-shortcutkey-frequently-using-16/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
