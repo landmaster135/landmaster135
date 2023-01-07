@@ -80,6 +80,8 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【読書】2022年12月に読んだ本の一覧](https://www.endorphinbath.com/list-of-book-read-in-202212/)
+- ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2022年12月](https://www.endorphinbath.com/kinkingame24bit-youtube-202212/)
 - ![](img/endorphinbath.png) [【ゲーム】Steamリプレイ2022の自分がプレイした履歴を見てみた](https://www.endorphinbath.com/steamreplay-2022/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2022年11月](https://www.endorphinbath.com/kinkingame24bit-youtube-202211/)
 - ![](img/endorphinbath.png) [【読書】人気者になれないなら「ハッカー」になればいい。非凡なものを創造するためのアイディア：「ハッカーと画家」](https://www.endorphinbath.com/book-hackers-and-painters/)
@@ -88,8 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【読書】2022年10月に読んだ本の一覧](https://www.endorphinbath.com/list-of-book-read-in-202210/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2022年9月](https://www.endorphinbath.com/kinkingame24bit-youtube-202209/)
 - ![](img/endorphinbath.png) [【読書】2022年9月に読んだ本の一覧](https://www.endorphinbath.com/list-of-book-read-in-202209/)
-- ![](img/endorphinbath.png) [【Satisfactory】ゲームを進める上ではじめに優先的に行っておくべきこと7選](https://www.endorphinbath.com/satisfactory-something-to-prioritize/)
-- ![](img/endorphinbath.png) [【Googleドライブ】容量を追加購入する前に確認すべきこと4選](https://www.endorphinbath.com/googledrive-check-before-storage-adding/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
