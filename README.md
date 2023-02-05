@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【イラスト】今日の練習成果（手の確認とクロッキー）_第3回](https://www.endorphinbath.com/illust-training-003/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2023年01月](https://www.endorphinbath.com/kinkingame24bit-youtube-202301/)
 - ![](img/endorphinbath.png) [【読書】2023年01月に読んだ本の一覧](https://www.endorphinbath.com/list-of-book-read-in-202301/)
 - ![](img/endorphinbath.png) [【イラスト】今日の練習成果（耳と胸おっぱいと髪の確認とクロッキー）_第2回](https://www.endorphinbath.com/illust-training-002/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【ゲーム】Steamリプレイ2022の自分がプレイした履歴を見てみた](https://www.endorphinbath.com/steamreplay-2022/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2022年11月](https://www.endorphinbath.com/kinkingame24bit-youtube-202211/)
 - ![](img/endorphinbath.png) [【読書】人気者になれないなら「ハッカー」になればいい。非凡なものを創造するためのアイディア：「ハッカーと画家」](https://www.endorphinbath.com/book-hackers-and-painters/)
-- ![](img/endorphinbath.png) [【読書】2022年11月に読んだ本の一覧](https://www.endorphinbath.com/list-of-book-read-in-202211/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
