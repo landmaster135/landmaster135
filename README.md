@@ -80,6 +80,8 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Python】Pycordでボットの機能を増やした（Discord Bot改良：第2回）](https://www.endorphinbath.com/python-discord-bot-enhance-2/)
+- ![](img/endorphinbath.png) [【Pycord】モーダルのdiscord.InputTextStyleでどのように入力できるかを見てみた](https://www.endorphinbath.com/pycord-inputtextstyle-watching/)
 - ![](img/endorphinbath.png) [【Pycord】ApplicationCommandで入力できるUI形式を画像イメージ付きで紹介する](https://www.endorphinbath.com/pycord-application-command-images/)
 - ![](img/endorphinbath.png) [【Notion】プロジェクトやマイルストーンの進捗度を表現する](https://www.endorphinbath.com/notion-describe-progress-degree/)
 - ![](img/endorphinbath.png) [【Notion】マルチセレクトの項目を任意のデータベースから参照したいときはリレーションにする](https://www.endorphinbath.com/notion-multiselect-to-database-relation/)
@@ -88,8 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【Google Apps Script】onOpen時に「Spreadsheet.openByIdを呼び出す権限がありません」となり、メニューが追加されない](https://www.endorphinbath.com/gas-onopne-auth-error/)
 - ![](img/endorphinbath.png) [【GitHub Actions】実行時にパラメータ項目を設定する](https://www.endorphinbath.com/githubactions-setting-parameter/)
 - ![](img/endorphinbath.png) [【イラスト】今日の練習成果（手の確認とクロッキー）_第3回](https://www.endorphinbath.com/illust-training-003/)
-- ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2023年01月](https://www.endorphinbath.com/kinkingame24bit-youtube-202301/)
-- ![](img/endorphinbath.png) [【読書】2023年01月に読んだ本の一覧](https://www.endorphinbath.com/list-of-book-read-in-202301/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
