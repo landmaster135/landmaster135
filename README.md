@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2023年03月](https://www.endorphinbath.com/kinkingame24bit-youtube-202303/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2023年02月](https://www.endorphinbath.com/kinkingame24bit-youtube-202302/)
 - ![](img/endorphinbath.png) [【読書】2023年02月に読んだ本の一覧](https://www.endorphinbath.com/list-of-book-read-in-202302/)
 - ![](img/endorphinbath.png) [【Python】Pycordでボットの機能を増やした（Discord Bot改良：第2回）](https://www.endorphinbath.com/python-discord-bot-enhance-2/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【Notion】マルチセレクトの項目を任意のデータベースから参照したいときはリレーションにする](https://www.endorphinbath.com/notion-multiselect-to-database-relation/)
 - ![](img/endorphinbath.png) [【Google Apps Script】DiscordのWebhookを使って毎朝天気を通知する（Discord Bot改良：第1回）](https://www.endorphinbath.com/gas-discord-webhook-weather/)
 - ![](img/endorphinbath.png) [【Google Apps Script】自分がGASで使うIDとかトークンを1つのシートで管理するライブラリを作ろうとしたけど、断念した話](https://www.endorphinbath.com/gas-dropped-managing-token-with-sheet/)
-- ![](img/endorphinbath.png) [【Google Apps Script】onOpen時に「Spreadsheet.openByIdを呼び出す権限がありません」となり、メニューが追加されない](https://www.endorphinbath.com/gas-onopne-auth-error/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
