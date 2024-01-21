@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [Google Apps ScriptでAniList GraphQL APIv2を叩くと、’No query or mutation provided…’のエラー400が返ってくる](https://www.endorphinbath.com/gas-anilist-graphql-error/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2023年12月](https://www.endorphinbath.com/kinkingame24bit-youtube-202312/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2023年11月](https://www.endorphinbath.com/kinkingame24bit-youtube-202311/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2023年10月](https://www.endorphinbath.com/kinkingame24bit-youtube-202310/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【Google Apps Script】DiscordのWebhookを使って行動を習慣化する](https://www.endorphinbath.com/gas-discord-webhook-habit/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2023年06月](https://www.endorphinbath.com/kinkingame24bit-youtube-202306/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2023年05月](https://www.endorphinbath.com/kinkingame24bit-youtube-202305/)
-- ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2023年04月](https://www.endorphinbath.com/kinkingame24bit-youtube-202304/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
