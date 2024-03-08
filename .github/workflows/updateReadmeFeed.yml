@@ -14,6 +14,10 @@ jobs:
         SCRIPT_MANAGER_API_ENDPOINT: ${{ secrets.SCRIPT_MANAGER_API_ENDPOINT }}
         MY_SCRIPT_NAME: 'landmaster135'
         THIS_FUNCTION_NAME: 'updateReadmeForRssFeed'
+        SCRIPT_MANAGER_API_CLIENT_ID_FOR_FEED_FETCHER: ${{ secrets.SCRIPT_MANAGER_API_CLIENT_ID_FOR_FEED_FETCHER }}
+        SCRIPT_MANAGER_API_CLIENT_SECRET_FOR_FEED_FETCHER: ${{ secrets.SCRIPT_MANAGER_API_CLIENT_SECRET_FOR_FEED_FETCHER }}
+        FF_SCRIPT_NAME: 'feed-fetcher'
+        FF_FUNCTION_NAME: 'feed-fetch'
     steps:
     - name: apt update
       run: sudo apt update
@@ -53,12 +57,19 @@ jobs:
         ./node_modules/feed-fetcher/bin/runFeedFetch --config-yaml=../../configOfFeedFetcher.yml
         ./node_modules/feed-fetcher/bin/runImageScale --config-yaml=../../configOfImageScaler.yml
 
-    - name: Record log
+    - name: Record log for me
       run: |
         curl '${{ env.SCRIPT_MANAGER_API_ENDPOINT }}?scriptname=${{ env.MY_SCRIPT_NAME }}&function-name=${{ env.THIS_FUNCTION_NAME }}' \
         -L \
         -H "Content-Type: application/json" \
         -d '{"path": "/log", "method": "POST", "client_info": {"id": "${{ env.SCRIPT_MANAGER_API_CLIENT_ID }}", "secret": "${{ env.SCRIPT_MANAGER_API_CLIENT_SECRET }}"}}'
+
+    - name: Record log for feed-fetcher
+      run: |
+        curl '${{ env.SCRIPT_MANAGER_API_ENDPOINT }}?scriptname=${{ env.FF_SCRIPT_NAME }}&function-name=${{ env.FF_FUNCTION_NAME }}' \
+        -L \
+        -H "Content-Type: application/json" \
+        -d '{"path": "/log", "method": "POST", "client_info": {"id": "${{ env.SCRIPT_MANAGER_API_CLIENT_ID_FOR_FEED_FETCHER }}", "secret": "${{ env.SCRIPT_MANAGER_API_CLIENT_SECRET_FOR_FEED_FETCHER }}"}}'
 
     - name: git setting
       run: |
