@@ -1,4 +1,4 @@
-name: Update README for RSS feed
+name: updateReadmeForRssFeed
 
 on:
   workflow_dispatch:
@@ -12,8 +12,8 @@ jobs:
         SCRIPT_MANAGER_API_CLIENT_ID: ${{ secrets.SCRIPT_MANAGER_API_CLIENT_ID }}
         SCRIPT_MANAGER_API_CLIENT_SECRET: ${{ secrets.SCRIPT_MANAGER_API_CLIENT_SECRET }}
         SCRIPT_MANAGER_API_ENDPOINT: ${{ secrets.SCRIPT_MANAGER_API_ENDPOINT }}
-        MY_SCRIPT_NAME: 'aaaaaaaaaaaaaaaaaa'
-        THIS_FUNCTION_NAME: 'bbbbbbbbbbbbbbbbbb'
+        MY_SCRIPT_NAME: 'landmaster135'
+        THIS_FUNCTION_NAME: 'updateReadmeForRssFeed'
     steps:
     - name: apt update
       run: sudo apt update
