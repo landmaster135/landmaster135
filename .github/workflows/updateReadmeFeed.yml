@@ -8,6 +8,12 @@ on:
 jobs:
   updateFeed:
     runs-on: ubuntu-latest
+    env:
+        SCRIPT_MANAGER_API_CLIENT_ID: ${{ secrets.SCRIPT_MANAGER_API_CLIENT_ID }}
+        SCRIPT_MANAGER_API_CLIENT_SECRET: ${{ secrets.SCRIPT_MANAGER_API_CLIENT_SECRET }}
+        SCRIPT_MANAGER_API_ENDPOINT: ${{ secrets.SCRIPT_MANAGER_API_ENDPOINT }}
+        MY_SCRIPT_NAME: 'aaaaaaaaaaaaaaaaaa'
+        THIS_FUNCTION_NAME: 'bbbbbbbbbbbbbbbbbb'
     steps:
     - name: apt update
       run: sudo apt update
@@ -46,7 +52,14 @@ jobs:
         chmod 777 ./node_modules/feed-fetcher/bin/*
         ./node_modules/feed-fetcher/bin/runFeedFetch --config-yaml=../../configOfFeedFetcher.yml
         ./node_modules/feed-fetcher/bin/runImageScale --config-yaml=../../configOfImageScaler.yml
-      
+
+    - name: Record log
+      run: |
+        curl '${{ env.SCRIPT_MANAGER_API_ENDPOINT }}?scriptname=${{ env.MY_SCRIPT_NAME }}&function-name=${{ env.THIS_FUNCTION_NAME }}' \
+        -X POST \
+        -H "Content-Type: application/json" \
+        -d '{"path": "/log", "method": "POST", "client_info": {"id": "${{ env.SCRIPT_MANAGER_API_CLIENT_ID }}", "secret": "${{ env.SCRIPT_MANAGER_API_CLIENT_SECRET }}"}}'
+
     - name: git setting
       run: |
         git config --local user.email "52403447+landmaster135@users.noreply.github.com"
