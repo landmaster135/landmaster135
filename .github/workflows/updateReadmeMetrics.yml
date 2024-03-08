@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: editMetrics
+name: updateReadmeMetrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 0 * * *"}]
@@ -14,7 +14,7 @@ jobs:
         SCRIPT_MANAGER_API_CLIENT_SECRET: ${{ secrets.SCRIPT_MANAGER_API_CLIENT_SECRET }}
         SCRIPT_MANAGER_API_ENDPOINT: ${{ secrets.SCRIPT_MANAGER_API_ENDPOINT }}
         MY_SCRIPT_NAME: 'landmaster135'
-        THIS_FUNCTION_NAME: 'editMetrics'
+        THIS_FUNCTION_NAME: 'updateReadmeMetrics'
     steps:
       - name: Github_Metrics
         if: ${{ success() || failure() }}
