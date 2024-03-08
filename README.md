@@ -80,6 +80,9 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【GitHub Actions、Bash】curlでPOSTする時のJSONの書き方いろいろ](https://www.endorphinbath.com/github-actions-bash-curl-json-to-post/)
+- ![](img/endorphinbath.png) [【GitHub Actions、Bash】「curl: (3) URL using bad/illegal format or missing URL」「curl: (3) nested brace in URL」といったエラーメッセージが出た時に試したこと](https://www.endorphinbath.com/github-actions-curl-error-01/)
+- ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年02月](https://www.endorphinbath.com/kinkingame24bit-youtube-202402/)
 - ![](img/endorphinbath.png) [【GAS】「We’re sorry, a server error occurred while reading from storage. Error code NOT_FOUND.」というエラーメッセージが出てきた時。](https://www.endorphinbath.com/gas-error-code-not-found/)
 - ![](img/endorphinbath.png) [【GAS】Googleカレンダーに曜日を指定してスケジュールを登録するスプレッドシートの構築](https://www.endorphinbath.com/gas-scheduling-googlecalendar-02/)
 - ![](img/endorphinbath.png) [【GAS、GPT-4】OpenAI APIでGmailに届くエラーメールをスプレッドシートに記録する](https://www.endorphinbath.com/gas-record-gamil-with-openai/)
@@ -87,9 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【GAS】「Exception: Invalid argument: id」が出た時の対処方法](https://www.endorphinbath.com/gas-error-invalid-augument-id/)
 - ![](img/endorphinbath.png) [【GAS、JavaScript】月末や月またぎも考慮した日付の計算をする](https://www.endorphinbath.com/gas-date-diff-over-the-month/)
 - ![](img/endorphinbath.png) [【JavaScript】数値を0埋めされた文字列として加工する](https://www.endorphinbath.com/js-number-zero-padding/)
-- ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年01月](https://www.endorphinbath.com/kinkingame24bit-youtube-202401/)
-- ![](img/endorphinbath.png) [【GraphQL】基礎的な書き方から、AniList API用のMutationクエリ（複数レコード更新）まで。](https://www.endorphinbath.com/graphql-base-to-anilist-mutation/)
-- ![](img/endorphinbath.png) [【GAS】Cloud StorageのOAuth認証時に「Google ドキュメント内でエラーが発生しました。このページを・・・」が出てくる](https://www.endorphinbath.com/gas-gcs-auth-error-in-doc/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
