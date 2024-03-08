@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+name: editMetrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 0 * * *"}]
@@ -9,6 +9,12 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    env:
+        SCRIPT_MANAGER_API_CLIENT_ID: ${{ secrets.SCRIPT_MANAGER_API_CLIENT_ID }}
+        SCRIPT_MANAGER_API_CLIENT_SECRET: ${{ secrets.SCRIPT_MANAGER_API_CLIENT_SECRET }}
+        SCRIPT_MANAGER_API_ENDPOINT: ${{ secrets.SCRIPT_MANAGER_API_ENDPOINT }}
+        MY_SCRIPT_NAME: 'landmaster135'
+        THIS_FUNCTION_NAME: 'editMetrics'
     steps:
       - name: Github_Metrics
         if: ${{ success() || failure() }}
@@ -53,3 +59,10 @@ jobs:
 #           plugin_anilist_shuffle: yes
           plugin_anilist_limit_characters: 10
 #           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+
+      - name: Record log
+        run: |
+          curl '${{ env.SCRIPT_MANAGER_API_ENDPOINT }}?scriptname=${{ env.MY_SCRIPT_NAME }}&function-name=${{ env.THIS_FUNCTION_NAME }}' \
+          -X POST \
+          -H "Content-Type: application/json" \
+          -d '{"path": "/log", "method": "POST", "client_info": {"id": "${{ env.SCRIPT_MANAGER_API_CLIENT_ID }}", "secret": "${{ env.SCRIPT_MANAGER_API_CLIENT_SECRET }}"}}'
