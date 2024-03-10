@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【GAS】スプレッドシートに入力したキーワードで検索してヒットした画像をGoogleドライブに保存する](https://www.endorphinbath.com/gas-search-to-save-images/)
 - ![](img/endorphinbath.png) [【GitHub Actions、Bash】curlでPOSTする時のJSONの書き方いろいろ](https://www.endorphinbath.com/github-actions-bash-curl-json-to-post/)
 - ![](img/endorphinbath.png) [【GitHub Actions、Bash】「curl: (3) URL using bad/illegal format or missing URL」「curl: (3) nested brace in URL」といったエラーメッセージが出た時に試したこと](https://www.endorphinbath.com/github-actions-curl-error-01/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年02月](https://www.endorphinbath.com/kinkingame24bit-youtube-202402/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【PowerShell】画像ファイルを一括リネームして、Exif情報も反映する](https://www.endorphinbath.com/powershell-rename-all-image-files/)
 - ![](img/endorphinbath.png) [【GAS】「Exception: Invalid argument: id」が出た時の対処方法](https://www.endorphinbath.com/gas-error-invalid-augument-id/)
 - ![](img/endorphinbath.png) [【GAS、JavaScript】月末や月またぎも考慮した日付の計算をする](https://www.endorphinbath.com/gas-date-diff-over-the-month/)
-- ![](img/endorphinbath.png) [【JavaScript】数値を0埋めされた文字列として加工する](https://www.endorphinbath.com/js-number-zero-padding/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
