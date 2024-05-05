@@ -80,6 +80,8 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Golang】ローカル自作パッケージを使おうとすると「package XXX/ZZZZ is not in std」になる](https://www.endorphinbath.com/golang-import-local-package/)
+- ![](img/endorphinbath.png) [【Cloud Functions】デプロイ直前にランタイム環境変数を利用した関数のテストは出来ない、のかもしれない](https://www.endorphinbath.com/cloudfunctions-unable-to-test-with-env/)
 - ![](img/endorphinbath.png) [【Google Cloud、Document AI】Satisfactoryというゲームの設定のスクショをOCRして管理したいのだが上手くいかない](https://www.endorphinbath.com/documentiai-satisfactory-options-management/)
 - ![](img/endorphinbath.png) [【TypeScript初心者】選択したテキストをコンテキストメニューを使ってクリップボードにコピーするChrome拡張機能](https://www.endorphinbath.com/chrome-extension-copying-with-contextmenu/)
 - ![](img/endorphinbath.png) [【Chrome拡張機能開発】GitHubでmainブランチにいる時に目立たせて気付きたい](https://www.endorphinbath.com/chrome-extension-github-main-branch-notice/)
@@ -88,8 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【GAS】スプレッドシートに入力したキーワードで検索してヒットした画像をGoogleドライブに保存する](https://www.endorphinbath.com/gas-search-to-save-images/)
 - ![](img/endorphinbath.png) [【GitHub Actions、Bash】curlでPOSTする時のJSONの書き方いろいろ](https://www.endorphinbath.com/github-actions-bash-curl-json-to-post/)
 - ![](img/endorphinbath.png) [【GitHub Actions、Bash】「curl: (3) URL using bad/illegal format or missing URL」「curl: (3) nested brace in URL」といったエラーメッセージが出た時に試したこと](https://www.endorphinbath.com/github-actions-curl-error-01/)
-- ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年02月](https://www.endorphinbath.com/kinkingame24bit-youtube-202402/)
-- ![](img/endorphinbath.png) [【GAS】「We’re sorry, a server error occurred while reading from storage. Error code NOT_FOUND.」というエラーメッセージが出てきた時。](https://www.endorphinbath.com/gas-error-code-not-found/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
