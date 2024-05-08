@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Chrome拡張機能】一般公開の申請をするまでの手順](https://www.endorphinbath.com/chrome-extension-publishing-process/)
 - ![](img/endorphinbath.png) [【Golang】ローカル自作パッケージを使おうとすると「package XXX/ZZZZ is not in std」になる](https://www.endorphinbath.com/golang-import-local-package/)
 - ![](img/endorphinbath.png) [【Cloud Functions】デプロイ直前にランタイム環境変数を利用した関数のテストは出来ない、のかもしれない](https://www.endorphinbath.com/cloudfunctions-unable-to-test-with-env/)
 - ![](img/endorphinbath.png) [【Google Cloud、Document AI】Satisfactoryというゲームの設定のスクショをOCRして管理したいのだが上手くいかない](https://www.endorphinbath.com/documentiai-satisfactory-options-management/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【GAS】「承認が必要です：このプロジェクトがあなたのデータへのアクセス権限を必要としています。」の表示工程を省くようにするスコープ設定](https://www.endorphinbath.com/gas-scope-settings-to-skip-oauth-process/)
 - ![](img/endorphinbath.png) [【GAS】スプレッドシートに入力したキーワードで検索してヒットした画像をGoogleドライブに保存する](https://www.endorphinbath.com/gas-search-to-save-images/)
 - ![](img/endorphinbath.png) [【GitHub Actions、Bash】curlでPOSTする時のJSONの書き方いろいろ](https://www.endorphinbath.com/github-actions-bash-curl-json-to-post/)
-- ![](img/endorphinbath.png) [【GitHub Actions、Bash】「curl: (3) URL using bad/illegal format or missing URL」「curl: (3) nested brace in URL」といったエラーメッセージが出た時に試したこと](https://www.endorphinbath.com/github-actions-curl-error-01/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
