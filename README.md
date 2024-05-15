@@ -81,6 +81,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--[START POSTS LIST]-->
 - ![](img/endorphinbath.png) [【Google Cloud】Eclipse TheiaがルーツのCloud Shell上で使用できるエディタ](https://www.endorphinbath.com/gcp-shell-editor-eclipse-theia/)
+- ![](img/endorphinbath.png) [【GitHub】Goでリポジトリの情報を取得するCloud Functionsを作って、Pythonと比較する](https://www.endorphinbath.com/cloudfunctions-to-get-github-repo-with-golang/)
 - ![](img/endorphinbath.png) [【GitHub】Pythonでリポジトリの情報を取得するCloud Functionsを作る](https://www.endorphinbath.com/cloudfunctions-to-get-github-repo-with-python/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年04月](https://www.endorphinbath.com/kinkingame24bit-youtube-202404/)
 - ![](img/endorphinbath.png) [【Chrome拡張機能】一般公開の申請をするまでの手順](https://www.endorphinbath.com/chrome-extension-publishing-process/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【Google Cloud、Document AI】Satisfactoryというゲームの設定のスクショをOCRして管理したいのだが上手くいかない](https://www.endorphinbath.com/documentiai-satisfactory-options-management/)
 - ![](img/endorphinbath.png) [【TypeScript初心者】選択したテキストをコンテキストメニューを使ってクリップボードにコピーするChrome拡張機能](https://www.endorphinbath.com/chrome-extension-copying-with-contextmenu/)
 - ![](img/endorphinbath.png) [【Chrome拡張機能開発】GitHubでmainブランチにいる時に目立たせて気付きたい](https://www.endorphinbath.com/chrome-extension-github-main-branch-notice/)
-- ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年03月](https://www.endorphinbath.com/kinkingame24bit-youtube-202403/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
