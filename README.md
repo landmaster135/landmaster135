@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Googleドライブ】キーボードショートカットが更新されるみたいなので一覧表にまとめた](https://www.endorphinbath.com/googledrive-updated-keyboard-shortcut/)
 - ![](img/endorphinbath.png) [【Google Cloud】Eclipse TheiaがルーツのCloud Shell上で使用できるエディタ](https://www.endorphinbath.com/gcp-shell-editor-eclipse-theia/)
 - ![](img/endorphinbath.png) [【GitHub】Goでリポジトリの情報を取得するCloud Functionsを作って、Pythonと比較する](https://www.endorphinbath.com/cloudfunctions-to-get-github-repo-with-golang/)
 - ![](img/endorphinbath.png) [【GitHub】Pythonでリポジトリの情報を取得するCloud Functionsを作る](https://www.endorphinbath.com/cloudfunctions-to-get-github-repo-with-python/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【Cloud Functions】デプロイ直前にランタイム環境変数を利用した関数のテストは出来ない、のかもしれない](https://www.endorphinbath.com/cloudfunctions-unable-to-test-with-env/)
 - ![](img/endorphinbath.png) [【Google Cloud、Document AI】Satisfactoryというゲームの設定のスクショをOCRして管理したいのだが上手くいかない](https://www.endorphinbath.com/documentiai-satisfactory-options-management/)
 - ![](img/endorphinbath.png) [【TypeScript初心者】選択したテキストをコンテキストメニューを使ってクリップボードにコピーするChrome拡張機能](https://www.endorphinbath.com/chrome-extension-copying-with-contextmenu/)
-- ![](img/endorphinbath.png) [【Chrome拡張機能開発】GitHubでmainブランチにいる時に目立たせて気付きたい](https://www.endorphinbath.com/chrome-extension-github-main-branch-notice/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
