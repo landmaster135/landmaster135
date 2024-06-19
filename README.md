@@ -80,16 +80,16 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【PowerShell】JPEGやPNGの画像ファイルをWEBP形式に変換するCwebpを使う](https://www.endorphinbath.com/powershell-convert-jpg-to-webp/)
+- ![](img/endorphinbath.png) [【PowerShell】画像ファイルのExif情報を任意の日付に編集する](https://www.endorphinbath.com/powershell-edit-exif-of-image-files/)
+- ![](img/endorphinbath.png) [【Google Cloud Shell】「Source: Gemini Code Assist + Google Cloud Code」って何ですか。](https://www.endorphinbath.com/gcp-shell-editor-cloud-code-permit/)
+- ![](img/endorphinbath.png) [【ミニマリスト】服を選ぶ方法をシステム化したい！](https://www.endorphinbath.com/minimalist-how-to-coordinate-outfits/)
+- ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年05月](https://www.endorphinbath.com/kinkingame24bit-youtube-202405/)
 - ![](img/endorphinbath.png) [【Python】大規模言語モデル達の間ではReStructuredTextスタイルはあまり知られていないらしい](https://www.endorphinbath.com/llm-knows-python-restructuredtextstyle/)
 - ![](img/endorphinbath.png) [【Googleドライブ】キーボードショートカットが更新されるみたいなので一覧表にまとめた](https://www.endorphinbath.com/googledrive-updated-keyboard-shortcut/)
 - ![](img/endorphinbath.png) [【Google Cloud】Eclipse TheiaがルーツのCloud Shell上で使用できるエディタ](https://www.endorphinbath.com/gcp-shell-editor-eclipse-theia/)
 - ![](img/endorphinbath.png) [【GitHub】Goでリポジトリの情報を取得するCloud Functionsを作って、Pythonと比較する](https://www.endorphinbath.com/cloudfunctions-to-get-github-repo-with-golang/)
 - ![](img/endorphinbath.png) [【GitHub】Pythonでリポジトリの情報を取得するCloud Functionsを作る](https://www.endorphinbath.com/cloudfunctions-to-get-github-repo-with-python/)
-- ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年04月](https://www.endorphinbath.com/kinkingame24bit-youtube-202404/)
-- ![](img/endorphinbath.png) [【Chrome拡張機能】一般公開の申請をするまでの手順](https://www.endorphinbath.com/chrome-extension-publishing-process/)
-- ![](img/endorphinbath.png) [【Golang】ローカル自作パッケージを使おうとすると「package XXX/ZZZZ is not in std」になる](https://www.endorphinbath.com/golang-import-local-package/)
-- ![](img/endorphinbath.png) [【Cloud Functions】デプロイ直前にランタイム環境変数を利用した関数のテストは出来ない、のかもしれない](https://www.endorphinbath.com/cloudfunctions-unable-to-test-with-env/)
-- ![](img/endorphinbath.png) [【Google Cloud、Document AI】Satisfactoryというゲームの設定のスクショをOCRして管理したいのだが上手くいかない](https://www.endorphinbath.com/documentiai-satisfactory-options-management/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
