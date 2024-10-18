@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [初めて自作ゲーミングPCを組んでいくのでその過程を書いていきます](https://www.endorphinbath.com/making-gaming-pc-for-the-first-time/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年09月](https://www.endorphinbath.com/kinkingame24bit-youtube-202409/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年08月](https://www.endorphinbath.com/kinkingame24bit-youtube-202408/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年07月](https://www.endorphinbath.com/kinkingame24bit-youtube-202407/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【PowerShell】画像ファイルのExif情報を任意の日付に編集する](https://www.endorphinbath.com/powershell-edit-exif-of-image-files/)
 - ![](img/endorphinbath.png) [【Google Cloud Shell】「Source: Gemini Code Assist + Google Cloud Code」って何ですか。](https://www.endorphinbath.com/gcp-shell-editor-cloud-code-permit/)
 - ![](img/endorphinbath.png) [【ミニマリスト】服を選ぶ方法をシステム化したい！](https://www.endorphinbath.com/minimalist-how-to-coordinate-outfits/)
-- ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年05月](https://www.endorphinbath.com/kinkingame24bit-youtube-202405/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
