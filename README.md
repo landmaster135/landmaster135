@@ -81,7 +81,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--[START POSTS LIST]-->
 - ![](img/endorphinbath.png) [【Satisfactory】2024年に使ったMod一覧（Update 8）](https://www.endorphinbath.com/satisfactory-mods-in-2024/)
-- ![](img/endorphinbath.png) [初めて自作ゲーミングPCを組んでいくのでその過程を書いていきます](https://www.endorphinbath.com/making-gaming-pc-for-the-first-time/)
+- ![](img/endorphinbath.png) [【自作ゲーミングPC】初めてデスクトップPCを組んでいくのでその過程を書いていきます](https://www.endorphinbath.com/making-gaming-pc-for-the-first-time/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年09月](https://www.endorphinbath.com/kinkingame24bit-youtube-202409/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年08月](https://www.endorphinbath.com/kinkingame24bit-youtube-202408/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年07月](https://www.endorphinbath.com/kinkingame24bit-youtube-202407/)
