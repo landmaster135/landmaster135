@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【PowerShell】Webpに変換した画像ファイルの向きを直す](https://www.endorphinbath.com/powershell-edit-exif-for-orientation/)
 - ![](img/endorphinbath.png) [【PowerShell】処理実行時のログファイルへの標準出力](https://www.endorphinbath.com/powershell-stdout/)
 - ![](img/endorphinbath.png) [そもそも原子核パスタって何？さらにスパゲッティ化現象？](https://www.endorphinbath.com/satisfactory-what-is-nuclear-pasta/)
 - ![](img/endorphinbath.png) [【Satisfactory】2024年に使ったMod一覧（Update 8）](https://www.endorphinbath.com/satisfactory-mods-in-2024/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年07月](https://www.endorphinbath.com/kinkingame24bit-youtube-202407/)
 - ![](img/endorphinbath.png) [【Luma Dream Machine】プロンプトガイドやFAQを検証してみた](https://www.endorphinbath.com/luma-dream-machine-prompt-and-faq/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年06月](https://www.endorphinbath.com/kinkingame24bit-youtube-202406/)
-- ![](img/endorphinbath.png) [【PowerShell】JPEGやPNGの画像ファイルをWEBP形式に変換するCwebpを使う](https://www.endorphinbath.com/powershell-convert-jpg-to-webp/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
