@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Satisfactory】Refined Powerの使い方](https://www.endorphinbath.com/satisfactory-refinedpower/)
 - ![](img/endorphinbath.png) [【Notion API】Google Apps Scriptでリッチテキストの編集を自動化する](https://www.endorphinbath.com/gas-notion-api-richtext_automation/)
 - ![](img/endorphinbath.png) [【Notion API】Google Apps Scriptでデータベースからページの中身を取得する](https://www.endorphinbath.com/gas-notion-api-retrieve-pages/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年10月](https://www.endorphinbath.com/kinkingame24bit-youtube-202410/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【Google Chrome】2024年版_個人的に使っている拡張機能を率直に書きます。](https://www.endorphinbath.com/chrome-recap-of-extension-2024/)
 - ![](img/endorphinbath.png) [【Google Chrome】2024年版_おすすめ設定と使い方](https://www.endorphinbath.com/chrome-recap-of-settings-2024/)
 - ![](img/endorphinbath.png) [【PowerShell】Webpに変換した画像ファイルの向きを直す](https://www.endorphinbath.com/powershell-edit-exif-for-orientation/)
-- ![](img/endorphinbath.png) [【PowerShell】処理実行時のログファイルへの標準出力](https://www.endorphinbath.com/powershell-stdout/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
