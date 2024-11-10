@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【2024年版】個人的な一体型スピーカーランキングと簡素なレビュー](https://www.endorphinbath.com/ranking-2024-of-integrated-speakers/)
 - ![](img/endorphinbath.png) [【Satisfactory】Refined Powerの使い方](https://www.endorphinbath.com/satisfactory-refinedpower/)
 - ![](img/endorphinbath.png) [【Notion API】Google Apps Scriptでリッチテキストの編集を自動化する](https://www.endorphinbath.com/gas-notion-api-richtext_automation/)
 - ![](img/endorphinbath.png) [【Notion API】Google Apps Scriptでデータベースからページの中身を取得する](https://www.endorphinbath.com/gas-notion-api-retrieve-pages/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【PowerShell】ただ画像をトリミングしたいだけなのにマーシャリングを知らなくて沼った話](https://www.endorphinbath.com/powershell-image-trimming-needs-marchaling/)
 - ![](img/endorphinbath.png) [【Google Chrome】2024年版_個人的に使っている拡張機能を率直に書きます。](https://www.endorphinbath.com/chrome-recap-of-extension-2024/)
 - ![](img/endorphinbath.png) [【Google Chrome】2024年版_おすすめ設定と使い方](https://www.endorphinbath.com/chrome-recap-of-settings-2024/)
-- ![](img/endorphinbath.png) [【PowerShell】Webpに変換した画像ファイルの向きを直す](https://www.endorphinbath.com/powershell-edit-exif-for-orientation/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
