@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【気を付けろ】GoogleドキュメントからNotionに貼り付けた画像はリンクで貼られる](https://www.endorphinbath.com/notion-googledoc-paste-image-link/)
 - ![](img/endorphinbath.png) [【Vertex AI】エクスポートしたNotionのページでRAGさせるかノーコードで。](https://www.endorphinbath.com/vertexai-notion-exported-page-rag/)
 - ![](img/endorphinbath.png) [【GAS】Vertex AI APIでブログのパーマリンクを自動生成する](https://www.endorphinbath.com/gas-vertexai-generate-permalink/)
 - ![](img/endorphinbath.png) [【2024年版】個人的な一体型スピーカーランキングと簡素なレビュー](https://www.endorphinbath.com/ranking-2024-of-integrated-speakers/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年10月](https://www.endorphinbath.com/kinkingame24bit-youtube-202410/)
 - ![](img/endorphinbath.png) [【GAS】Google Apps Scriptの基本的な使い方・始め方](https://www.endorphinbath.com/gas-lets-get-started/)
 - ![](img/endorphinbath.png) [【PowerShell】ただ画像をPDFとして結合したいだけなのに沼った話](https://www.endorphinbath.com/powershell-image-merging-into-pdf/)
-- ![](img/endorphinbath.png) [【PowerShell】ただ画像をトリミングしたいだけなのにマーシャリングを知らなくて沼った話](https://www.endorphinbath.com/powershell-image-trimming-needs-marchaling/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
