@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Python】開発時に導入して個人的に便利だった事柄まとめ](https://www.endorphinbath.com/python-tips-for-develpment/)
 - ![](img/endorphinbath.png) [【自作ゲーミングPC】初めてデスクトップPCを組んでいく（OS設定編）](https://www.endorphinbath.com/making-gaming-pc-first-os-setting/)
 - ![](img/endorphinbath.png) [【自作ゲーミングPC】初めてデスクトップPCを組んでいく（組立編）](https://www.endorphinbath.com/making-gaming-pc-first-assembly/)
 - ![](img/endorphinbath.png) [【PowerShell】半角カタカナを全角カタカナに変換する処理をPesterでテストする](https://www.endorphinbath.com/powershell-convert-to-full-width-kana/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【2024年版】個人的な一体型スピーカーランキングと簡素なレビュー](https://www.endorphinbath.com/ranking-2024-of-integrated-speakers/)
 - ![](img/endorphinbath.png) [【Satisfactory】Refined Powerの使い方](https://www.endorphinbath.com/satisfactory-refinedpower/)
 - ![](img/endorphinbath.png) [【Notion API】Google Apps Scriptでリッチテキストの編集を自動化する](https://www.endorphinbath.com/gas-notion-api-richtext_automation/)
-- ![](img/endorphinbath.png) [【Notion API】Google Apps Scriptでデータベースからページの中身を取得する](https://www.endorphinbath.com/gas-notion-api-retrieve-pages/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
