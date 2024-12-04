@@ -80,7 +80,9 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
-- ![](img/endorphinbath.png) [【Cloud SQL】Golangでインスタンスの開始停止をスケジュール実行して節約する](https://www.endorphinbath.com/golang-cloud-sql-saving/)
+- ![](img/endorphinbath.png) [40万円で手に入れた2つのPCの性能のベンチマークを比較する（第2回：SatisfactoryやGhost of Tsushimaなど）](https://www.endorphinbath.com/making-gaming-pc-first-vs-pc-02/)
+- ![](img/endorphinbath.png) [40万円で手に入れた2つのPCの性能のベンチマークを比較する（第1回：3DMarkとCinebench）](https://www.endorphinbath.com/making-gaming-pc-first-vs-pc/)
+- ![](img/endorphinbath.png) [【Cloud SQL】GolangでDBインスタンスの開始停止をスケジュール実行して節約する](https://www.endorphinbath.com/golang-cloud-sql-saving/)
 - ![](img/endorphinbath.png) [【Chocolate Factory】セーブデータが置いてあるフォルダの場所](https://www.endorphinbath.com/chocolate-factory-where-is-savedata/)
 - ![](img/endorphinbath.png) [【Palworld】他人がホストだったマルチのデータを自分のワールドに移行する](https://www.endorphinbath.com/palworld-other-hosetd-savedata-to-me/)
 - ![](img/endorphinbath.png) [筆者がAmazonブラックフライデー2024で買ったもの](https://www.endorphinbath.com/amazon-black-friday-2024-bought/)
@@ -88,8 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【Python、Golang】NotionのページのプロパティをCloud SQLのPostgreSQLに記録する（第1回）](https://www.endorphinbath.com/python-cloudsql-postgresql-notion-page/)
 - ![](img/endorphinbath.png) [【自作ゲーミングPC】初めてデスクトップPCを組んでいく（OS設定編）](https://www.endorphinbath.com/making-gaming-pc-first-os-setting/)
 - ![](img/endorphinbath.png) [【自作ゲーミングPC】初めてデスクトップPCを組んでいく（組立編）](https://www.endorphinbath.com/making-gaming-pc-first-assembly/)
-- ![](img/endorphinbath.png) [【PowerShell】半角カタカナを全角カタカナに変換する処理をPesterでテストする](https://www.endorphinbath.com/powershell-convert-to-full-width-kana/)
-- ![](img/endorphinbath.png) [【気を付けろ】GoogleドキュメントからNotionに貼り付けた画像はリンクで貼られる](https://www.endorphinbath.com/notion-googledoc-paste-image-link/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
