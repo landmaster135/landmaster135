@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【PowerShell、HTML】画像の不要な部分を数値化して、その座標でトリミングする](https://www.endorphinbath.com/powershell-html-image-trimming-by-coordinates/)
 - ![](img/endorphinbath.png) [40万円で手に入れた2つのPCの性能のベンチマークを比較する（第2回：SatisfactoryやGhost of Tsushimaなど）](https://www.endorphinbath.com/making-gaming-pc-first-vs-pc-02/)
 - ![](img/endorphinbath.png) [40万円で手に入れた2つのPCの性能のベンチマークを比較する（第1回：3DMarkとCinebench）](https://www.endorphinbath.com/making-gaming-pc-first-vs-pc/)
 - ![](img/endorphinbath.png) [【Cloud SQL】GolangでDBインスタンスの開始停止をスケジュール実行して節約する](https://www.endorphinbath.com/golang-cloud-sql-saving/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【Python】開発時に導入して個人的に便利だった事柄まとめ](https://www.endorphinbath.com/python-tips-for-develpment/)
 - ![](img/endorphinbath.png) [【Python、Golang】NotionのページのプロパティをCloud SQLのPostgreSQLに記録する（第1回）](https://www.endorphinbath.com/python-cloudsql-postgresql-notion-page/)
 - ![](img/endorphinbath.png) [【自作ゲーミングPC】初めてデスクトップPCを組んでいく（OS設定編）](https://www.endorphinbath.com/making-gaming-pc-first-os-setting/)
-- ![](img/endorphinbath.png) [【自作ゲーミングPC】初めてデスクトップPCを組んでいく（組立編）](https://www.endorphinbath.com/making-gaming-pc-first-assembly/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
