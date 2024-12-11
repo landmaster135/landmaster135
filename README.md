@@ -80,16 +80,16 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
-- ![](img/endorphinbath.png) [Project IDXというクラウドIDEを触ってみました。](https://www.endorphinbath.com/project-idx%E3%81%A8%E3%81%84%E3%81%86%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89ide%E3%82%92%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/)
+- ![](img/endorphinbath.png) [Project IDXでFastAPIベースのPanelアプリを作りたかったんだけど結局よく分からなかった](https://www.endorphinbath.com/project-idx-fastapi-panel-app-failed/)
+- ![](img/endorphinbath.png) [【PowerShell】ffmpegでmp4をgifに変換する](https://www.endorphinbath.com/powershell-ffmpeg-mp4-to-gif/)
+- ![](img/endorphinbath.png) [Pythonのタブサイズがどうしても「4」にならない](https://www.endorphinbath.com/python-tabsize-not-4-but-2/)
+- ![](img/endorphinbath.png) [3DMarkに関する情報およびそれに付随する情報をまとめた](https://www.endorphinbath.com/3dmark-how-to/)
+- ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年11月](https://www.endorphinbath.com/kinkingame24bit-youtube-202411/)
+- ![](img/endorphinbath.png) [Project IDXというクラウドIDEを触ってみました。](https://www.endorphinbath.com/project-idx-cloud-ide-first-impression/)
 - ![](img/endorphinbath.png) [【PowerShell、HTML】画像の不要な部分を数値化して、その座標でトリミングする](https://www.endorphinbath.com/powershell-html-image-trimming-by-coordinates/)
 - ![](img/endorphinbath.png) [40万円で手に入れた2つのPCの性能のベンチマークを比較する（第2回：SatisfactoryやGhost of Tsushimaなど）](https://www.endorphinbath.com/making-gaming-pc-first-vs-pc-02/)
 - ![](img/endorphinbath.png) [40万円で手に入れた2つのPCの性能のベンチマークを比較する（第1回：3DMarkとCinebench）](https://www.endorphinbath.com/making-gaming-pc-first-vs-pc/)
 - ![](img/endorphinbath.png) [【Cloud SQL】GolangでDBインスタンスの開始停止をスケジュール実行して節約する](https://www.endorphinbath.com/golang-cloud-sql-saving/)
-- ![](img/endorphinbath.png) [【Chocolate Factory】セーブデータが置いてあるフォルダの場所](https://www.endorphinbath.com/chocolate-factory-where-is-savedata/)
-- ![](img/endorphinbath.png) [【Palworld】他人がホストだったマルチのデータを自分のワールドに移行する](https://www.endorphinbath.com/palworld-other-hosetd-savedata-to-me/)
-- ![](img/endorphinbath.png) [筆者がAmazonブラックフライデー2024で買ったもの](https://www.endorphinbath.com/amazon-black-friday-2024-bought/)
-- ![](img/endorphinbath.png) [【Python】開発時に導入して個人的に便利だった事柄まとめ](https://www.endorphinbath.com/python-tips-for-develpment/)
-- ![](img/endorphinbath.png) [【Python、Golang】NotionのページのプロパティをCloud SQLのPostgreSQLに記録する（第1回）](https://www.endorphinbath.com/python-cloudsql-postgresql-notion-page/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
