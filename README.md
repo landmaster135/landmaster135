@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【PowerShell】iTextSharpでPDFを暗号化する](https://www.endorphinbath.com/powershell-itextsharp-pdf-encryption/)
 - ![](img/endorphinbath.png) [【GAS】スクリプトプロパティがGUIで確認できないのでJSONに入れることにした](https://www.endorphinbath.com/gas-scriptpropertis-holding-json/)
 - ![](img/endorphinbath.png) [【Cloud SQL】GolangでDBインスタンスへのオペレーション完了まで待つ](https://www.endorphinbath.com/golang-cloud-sql-wait-operations-completing/)
 - ![](img/endorphinbath.png) [NVIDIA NIMで利用できる生成AI](https://www.endorphinbath.com/nvidia-nim-generative-ai/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【PowerShell】ffmpegとgif2webpでmp4動画のサイズを小さくしたい](https://www.endorphinbath.com/lossy-convert-with-ffmpeg-gif2webp/)
 - ![](img/endorphinbath.png) [【Cloud SQL】GolangでDBインスタンスの開始停止をDiscordで通知する](https://www.endorphinbath.com/golang-cloud-sql-saving-then-discord-notification/)
 - ![](img/endorphinbath.png) [Project IDXでFastAPIベースのPanelアプリを作りたかったんだけど結局よく分からなかった](https://www.endorphinbath.com/project-idx-fastapi-panel-app-failed/)
-- ![](img/endorphinbath.png) [【PowerShell】ffmpegでmp4をgifに変換する](https://www.endorphinbath.com/powershell-ffmpeg-mp4-to-gif/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
