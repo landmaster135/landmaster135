@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Vertext AI】パルワールドのパルのステータスをOCRして表にしたい](https://www.endorphinbath.com/vertexai-generating-palworld-status-table/)
 - ![](img/endorphinbath.png) [ChocolateyでWindowsに一気にインストールする](https://www.endorphinbath.com/chocolatey-install-on-windows/)
 - ![](img/endorphinbath.png) [ScoopでWindowsに一気にインストールする](https://www.endorphinbath.com/scoop-install-on-windows/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年12月](https://www.endorphinbath.com/kinkingame24bit-youtube-202412/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [40万円で手に入れた2つのPCの性能のベンチマークを比較する（第2回：SatisfactoryやGhost of Tsushimaなど）](https://www.endorphinbath.com/making-gaming-pc-first-vs-pc-02/)
 - ![](img/endorphinbath.png) [【PowerShell】iTextSharpでPDFを暗号化する](https://www.endorphinbath.com/powershell-itextsharp-pdf-encryption/)
 - ![](img/endorphinbath.png) [【GAS】スクリプトプロパティがGUIで確認できないのでJSONに入れることにした](https://www.endorphinbath.com/gas-scriptpropertis-holding-json/)
-- ![](img/endorphinbath.png) [【Cloud SQL】GolangでDBインスタンスへのオペレーション完了まで待つ](https://www.endorphinbath.com/golang-cloud-sql-wait-operations-completing/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
