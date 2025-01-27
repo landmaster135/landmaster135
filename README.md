@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Palworld】生産効率の高い拠点を作るために気を付ける10個のこと](https://www.endorphinbath.com/palworld-tips-to-productive-base/)
 - ![](img/endorphinbath.png) [【Google Cloud】Cloud Shell EditorでClineを使ってみる](https://www.endorphinbath.com/gcp-shell-editor-using-cline/)
 - ![](img/endorphinbath.png) [【Vertext AI】パルワールドのパルのステータスをOCRして表にしたい](https://www.endorphinbath.com/vertexai-generating-palworld-status-table/)
 - ![](img/endorphinbath.png) [ChocolateyでWindowsに一気にインストールする](https://www.endorphinbath.com/chocolatey-install-on-windows/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【PowerShell】Cwebpで圧縮したJPGだとiTextSharpでPDFに変換出来ない](https://www.endorphinbath.com/powershell-cwebp-jpg-pdf-itextsharp/)
 - ![](img/endorphinbath.png) [B650 Steel Legend WiFiで使えるASRock Polychrome RGBの入手および設定方法](https://www.endorphinbath.com/asrock-polychrome-led-setting/)
 - ![](img/endorphinbath.png) [40万円で手に入れた2つのPCの性能のベンチマークを比較する（第2回：SatisfactoryやGhost of Tsushimaなど）](https://www.endorphinbath.com/making-gaming-pc-first-vs-pc-02/)
-- ![](img/endorphinbath.png) [【PowerShell】iTextSharpでPDFを暗号化する](https://www.endorphinbath.com/powershell-itextsharp-pdf-encryption/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
