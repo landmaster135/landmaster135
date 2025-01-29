@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
-- ![](img/endorphinbath.png) [【Palworld】生産効率の高い拠点を作るために気を付ける10個のこと](https://www.endorphinbath.com/palworld-tips-to-productive-base/)
+- ![](img/endorphinbath.png) [【Palworld】生産効率の高い拠点を作るために気を付ける10のこと](https://www.endorphinbath.com/palworld-tips-to-productive-base/)
 - ![](img/endorphinbath.png) [【Google Cloud】Cloud Shell EditorでClineを使ってみる](https://www.endorphinbath.com/gcp-shell-editor-using-cline/)
 - ![](img/endorphinbath.png) [【Vertext AI】パルワールドのパルのステータスをOCRして表にしたい](https://www.endorphinbath.com/vertexai-generating-palworld-status-table/)
 - ![](img/endorphinbath.png) [ChocolateyでWindowsに一気にインストールする](https://www.endorphinbath.com/chocolatey-install-on-windows/)
