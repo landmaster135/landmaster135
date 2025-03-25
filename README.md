@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Notion、Bash】Clineで綴るPythonのtypingモジュール完全ガイド](https://www.endorphinbath.com/cline-guide-for-python-typing-module/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2025年02月](https://www.endorphinbath.com/kinkingame24bit-youtube-202502/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2025年01月](https://www.endorphinbath.com/kinkingame24bit-youtube-202501/)
 - ![](img/endorphinbath.png) [Ryzen 9 7950X3DとGeForce RTX 4080 Superで「モンスターハンターワイルズ ベンチマーク」を測った](https://www.endorphinbath.com/mhwilds-benchmark-7950x3d-rtx4080-super/)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【Vertext AI】パルワールドのパルのステータスをOCRして表にしたい](https://www.endorphinbath.com/vertexai-generating-palworld-status-table/)
 - ![](img/endorphinbath.png) [ChocolateyでWindowsに一気にインストールする](https://www.endorphinbath.com/chocolatey-install-on-windows/)
 - ![](img/endorphinbath.png) [ScoopでWindowsに一気にインストールする](https://www.endorphinbath.com/scoop-install-on-windows/)
-- ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2024年12月](https://www.endorphinbath.com/kinkingame24bit-youtube-202412/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
