@@ -80,6 +80,9 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2024年版）](https://www.endorphinbath.com/mackerel-packed-can-2024/)
+- ![](img/endorphinbath.png) [【Notion API】100個以上のブロックをページに追加するためのPythonスクリプト](https://www.endorphinbath.com/python-script-to-add-100-blocks-in-notion/)
+- ![](img/endorphinbath.png) [【Document AI】確定申告のために為替差益の計算に必要なデータを抽出する](https://www.endorphinbath.com/documentai-for-foreign-exchange-profit/)
 - ![](img/endorphinbath.png) [Cline（Claude 3.7 Sonnet）にgcloudコマンドを網羅してもらった](https://www.endorphinbath.com/cline-for-gcloud-commands-with-claude/)
 - ![](img/endorphinbath.png) [GeminiのDeep Researchでgcloudコマンドを網羅出来るかどうかを試す](https://www.endorphinbath.com/gemini-deepresearch-gcloud-commands/)
 - ![](img/endorphinbath.png) [【Notion、Bash】Clineで綴るPythonのtypingモジュール完全ガイド](https://www.endorphinbath.com/cline-guide-for-python-typing-module/)
@@ -87,9 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2025年01月](https://www.endorphinbath.com/kinkingame24bit-youtube-202501/)
 - ![](img/endorphinbath.png) [Ryzen 9 7950X3DとGeForce RTX 4080 Superで「モンスターハンターワイルズ ベンチマーク」を測った](https://www.endorphinbath.com/mhwilds-benchmark-7950x3d-rtx4080-super/)
 - ![](img/endorphinbath.png) [【Python】venvを使いながら環境変数PS1を設定してプロンプトを見やすくしたい](https://www.endorphinbath.com/python-venv-with-ps1-env/)
-- ![](img/endorphinbath.png) [【Palworld】生産効率の高い拠点を作るために気を付ける10のこと](https://www.endorphinbath.com/palworld-tips-to-productive-base/)
-- ![](img/endorphinbath.png) [【Google Cloud】Cloud Shell EditorでClineを使ってみる](https://www.endorphinbath.com/gcp-shell-editor-using-cline/)
-- ![](img/endorphinbath.png) [【Vertext AI】パルワールドのパルのステータスをOCRして表にしたい](https://www.endorphinbath.com/vertexai-generating-palworld-status-table/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
