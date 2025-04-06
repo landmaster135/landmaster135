@@ -80,6 +80,9 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [2025年4月にWeb上で人気のあるオススメなミニPC13選](https://note.com/kinkinbeer135ml/n/ndba378089434)
+- ![](img/note.png) [本日のキンキンな日記(Gin開発,SwaggerUI,Docker,Mac Studio)_20250405](https://note.com/kinkinbeer135ml/n/na4073ac67642)
+- ![](img/endorphinbath.png) [【Go、Docker】「api」という名前のパッケージを作るとビルド出来なくなる](https://www.endorphinbath.com/go-docker-api-package-building-problem/)
 - ![](img/note.png) [本日のキンキンな日記(PostgreSQL,Docker,Go,Gin)_20250404](https://note.com/kinkinbeer135ml/n/n7e9bb8b909fe)
 - ![](img/note.png) [本日のキンキンな日記(GitHub App,MCPサーバ,Go,モック,Cline Rules)_20250402](https://note.com/kinkinbeer135ml/n/nebe2073f1e29)
 - ![](img/endorphinbath.png) [最近WSLでVSCodeを触ってイラッとしたこと](https://www.endorphinbath.com/wsl-vscode-irritating-issues/)
@@ -91,10 +94,7 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [Cline（Claude 3.7 Sonnet）にgcloudコマンドを網羅してもらった](https://www.endorphinbath.com/cline-for-gcloud-commands-with-claude/)
 - ![](img/endorphinbath.png) [GeminiのDeep Researchでgcloudコマンドを網羅出来るかどうかを試す](https://www.endorphinbath.com/gemini-deepresearch-gcloud-commands/)
 - ![](img/endorphinbath.png) [【Notion、Bash】Clineで綴るPythonのtypingモジュール完全ガイド](https://www.endorphinbath.com/cline-guide-for-python-typing-module/)
-- ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2025年02月](https://www.endorphinbath.com/kinkingame24bit-youtube-202502/)
 - ![](img/qiita.png) [【Python】DockerでOpenCVをインストールする時の設定](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
-- ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
-- ![](img/qiita.png) [【Node.js、Javascript】Seleniumで要素のXPathを一気に取得する。](https://qiita.com/landmaster135/items/3bf54fad9d1c72b1674d)
 <!--[END POSTS LIST]-->
 
 ## Blog, SNS🍺
