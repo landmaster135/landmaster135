@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Python】死ぬほどモックで沼ってたのでその過程でClaude君が出してくれた対策を並べた](https://www.endorphinbath.com/python-mock-tips-from-claude/)
 - ![](img/note.png) [GeminiのDeep Researchの引用の量がスンゴイですね](https://note.com/kinkinbeer135ml/n/ndcfed25435ab)
 - ![](img/note.png) [本日のキンキンな日記（Go,VSCode,テスト,設計改善）_20250407](https://note.com/kinkinbeer135ml/n/ndb4f2658726e)
 - ![](img/note.png) [2025年4月にWeb上で人気のあるオススメなミニPC13選](https://note.com/kinkinbeer135ml/n/ndba378089434)
@@ -94,7 +95,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【Notion API】100個以上のブロックをページに追加するためのPythonスクリプト](https://www.endorphinbath.com/python-script-to-add-100-blocks-in-notion/)
 - ![](img/endorphinbath.png) [【Document AI】確定申告のために為替差益の計算に必要なデータを抽出する](https://www.endorphinbath.com/documentai-for-foreign-exchange-profit/)
 - ![](img/endorphinbath.png) [Cline（Claude 3.7 Sonnet）にgcloudコマンドを網羅してもらった](https://www.endorphinbath.com/cline-for-gcloud-commands-with-claude/)
-- ![](img/endorphinbath.png) [GeminiのDeep Researchでgcloudコマンドを網羅出来るかどうかを試す](https://www.endorphinbath.com/gemini-deepresearch-gcloud-commands/)
 <!--[END POSTS LIST]-->
 
 ## Blog, SNS🍺
