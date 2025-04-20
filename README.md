@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [この前GoでMCPサーバにいくつかの機能を持たせました](https://note.com/kinkinbeer135ml/n/ndb0d41e595ac)
 - ![](img/endorphinbath.png) [今年食ったサバ缶をまとめるためのPythonスクリプト](https://www.endorphinbath.com/python-mackerel-of-the-year/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2025年03月](https://www.endorphinbath.com/kinkingame24bit-youtube-202503/)
 - ![](img/endorphinbath.png) [【Python】死ぬほどモックで沼ってたのでその過程でClaude君が出してくれた対策を並べた](https://www.endorphinbath.com/python-mock-tips-from-claude/)
@@ -94,7 +95,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【Cline、Go】日付計算とかWeb検索とかするMCPサーバを手に入れた](https://www.endorphinbath.com/go-cline-mcp-server-date-calculation-web-search/)
 - ![](img/endorphinbath.png) [【Google Compute Engine】SSH接続できるDebian VMを構築するシェル関数を作る](https://www.endorphinbath.com/gce-debian-vm-ssh-shell-function/)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2024年版）](https://www.endorphinbath.com/mackerel-packed-can-2024/)
-- ![](img/endorphinbath.png) [【Notion API】100個以上のブロックをページに追加するためのPythonスクリプト](https://www.endorphinbath.com/python-script-to-add-100-blocks-in-notion/)
 <!--[END POSTS LIST]-->
 
 ## Blog, SNS🍺
