@@ -80,6 +80,10 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Google Cloud】GitHub Actionsで認証するためのシェル関数を作る](https://www.endorphinbath.com/gcp-shell-functions-for-github-actions-authentication/)
+- ![](img/endorphinbath.png) [【Cloud Scheduler】コンテナを動かすために必要なgcloudコマンドをシェル関数化する](https://www.endorphinbath.com/cloud-scheduler-gcloud-commands-shell-functions/)
+- ![](img/endorphinbath.png) [【Cloud Run】コンテナを稼働させるまでに必要なgcloudコマンドをシェル関数化する](https://www.endorphinbath.com/cloud-run-gcloud-commands-shell-functions/)
+- ![](img/endorphinbath.png) [【ffmpeg、PowerShell】MEGAでWebm動画を再生出来るようにする。](https://www.endorphinbath.com/ffmpeg-webm-for-mega-with-powershell/)
 - ![](img/note.png) [【Windows】Claude DesktopでGo製のMCPサーバを使う](https://note.com/kinkinbeer135ml/n/n80598479426d)
 - ![](img/note.png) [この前GoでMCPサーバにいくつかの機能を持たせました](https://note.com/kinkinbeer135ml/n/ndb0d41e595ac)
 - ![](img/endorphinbath.png) [今年食ったサバ缶をまとめるためのPythonスクリプト](https://www.endorphinbath.com/python-mackerel-of-the-year/)
@@ -91,10 +95,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/note.png) [本日のキンキンな日記(Gin開発,SwaggerUI,Docker,Mac Studio)_20250405](https://note.com/kinkinbeer135ml/n/na4073ac67642)
 - ![](img/endorphinbath.png) [【Go、Docker】「api」という名前のパッケージを作るとビルド出来なくなる](https://www.endorphinbath.com/go-docker-api-package-building-problem/)
 - ![](img/note.png) [本日のキンキンな日記(PostgreSQL,Docker,Go,Gin)_20250404](https://note.com/kinkinbeer135ml/n/n7e9bb8b909fe)
-- ![](img/note.png) [本日のキンキンな日記(GitHub App,MCPサーバ,Go,モック,Cline Rules)_20250402](https://note.com/kinkinbeer135ml/n/nebe2073f1e29)
-- ![](img/endorphinbath.png) [最近WSLでVSCodeを触ってイラッとしたこと](https://www.endorphinbath.com/wsl-vscode-irritating-issues/)
-- ![](img/endorphinbath.png) [【Cline、Go】日付計算とかWeb検索とかするMCPサーバを手に入れた](https://www.endorphinbath.com/go-cline-mcp-server-date-calculation-web-search/)
-- ![](img/endorphinbath.png) [【Google Compute Engine】SSH接続できるDebian VMを構築するシェル関数を作る](https://www.endorphinbath.com/gce-debian-vm-ssh-shell-function/)
 <!--[END POSTS LIST]-->
 
 ## Blog, SNS🍺
