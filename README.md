@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [【Python】Agent Development KitでBrave Search APIのレスポンスを取得する](https://note.com/kinkinbeer135ml/n/nb627265bdb2a)
 - ![](img/endorphinbath.png) [【Google Cloud】GitHub Actionsで認証するためのシェル関数を作る](https://www.endorphinbath.com/gcp-shell-functions-for-github-actions-authentication/)
 - ![](img/endorphinbath.png) [【Cloud Scheduler】コンテナを動かすために必要なgcloudコマンドをシェル関数化する](https://www.endorphinbath.com/cloud-scheduler-gcloud-commands-shell-functions/)
 - ![](img/endorphinbath.png) [【Cloud Run】コンテナを稼働させるまでに必要なgcloudコマンドをシェル関数化する](https://www.endorphinbath.com/cloud-run-gcloud-commands-shell-functions/)
@@ -94,7 +95,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/note.png) [2025年4月にWeb上で人気のあるオススメなミニPC13選](https://note.com/kinkinbeer135ml/n/ndba378089434)
 - ![](img/note.png) [本日のキンキンな日記(Gin開発,SwaggerUI,Docker,Mac Studio)_20250405](https://note.com/kinkinbeer135ml/n/na4073ac67642)
 - ![](img/endorphinbath.png) [【Go、Docker】「api」という名前のパッケージを作るとビルド出来なくなる](https://www.endorphinbath.com/go-docker-api-package-building-problem/)
-- ![](img/note.png) [本日のキンキンな日記(PostgreSQL,Docker,Go,Gin)_20250404](https://note.com/kinkinbeer135ml/n/n7e9bb8b909fe)
 <!--[END POSTS LIST]-->
 
 ## Blog, SNS🍺
