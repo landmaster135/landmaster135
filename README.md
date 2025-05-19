@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
 - ![](img/note.png) [スプレッドシートじゃなくてDBが欲しい話](https://note.com/kinkinbeer135ml/n/n0d0ae09fd474)
 - ![](img/note.png) [【Go】2025年4月に作った適当開発ツール](https://note.com/kinkinbeer135ml/n/n561ec40b8786)
 - ![](img/note.png) [【Python】Agent Development KitでBrave Search APIのレスポンスを取得する](https://note.com/kinkinbeer135ml/n/nb627265bdb2a)
@@ -94,7 +95,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【Python】死ぬほどモックで沼ってたのでその過程でClaude君が出してくれた対策を並べた](https://www.endorphinbath.com/python-mock-tips-from-claude/)
 - ![](img/note.png) [GeminiのDeep Researchの引用の量がスンゴイですね](https://note.com/kinkinbeer135ml/n/ndcfed25435ab)
 - ![](img/note.png) [本日のキンキンな日記（Go,VSCode,テスト,設計改善）_20250407](https://note.com/kinkinbeer135ml/n/ndb4f2658726e)
-- ![](img/note.png) [2025年4月にWeb上で人気のあるオススメなミニPC13選](https://note.com/kinkinbeer135ml/n/ndba378089434)
 <!--[END POSTS LIST]-->
 
 ## Blog, SNS🍺
