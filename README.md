@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
-- ![](img/note.png) [40g周辺の軽いゲーミングマウス10選](https://note.com/kinkinbeer135ml/n/n807a96075188)
+- ![](img/note.png) [40g周辺の軽いゲーミングマウス11選](https://note.com/kinkinbeer135ml/n/n807a96075188)
 - ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
 - ![](img/note.png) [スプレッドシートじゃなくてDBが欲しい話](https://note.com/kinkinbeer135ml/n/n0d0ae09fd474)
 - ![](img/note.png) [【Go】2025年4月に作った適当開発ツール](https://note.com/kinkinbeer135ml/n/n561ec40b8786)
