@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [2025年度福岡旅行その1（神社および寺の編）](https://note.com/kinkinbeer135ml/n/n1906a2a62695)
 - ![](img/note.png) [Amazonブラックフライデー2025で買ったものたち（Codexで下書き）](https://note.com/kinkinbeer135ml/n/n476c220e4c5d)
 - ![](img/note.png) [40g周辺の軽いゲーミングマウス11選](https://note.com/kinkinbeer135ml/n/n807a96075188)
 - ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
@@ -94,7 +95,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/note.png) [この前GoでMCPサーバにいくつかの機能を持たせました](https://note.com/kinkinbeer135ml/n/ndb0d41e595ac)
 - ![](img/endorphinbath.png) [今年食ったサバ缶をまとめるためのPythonスクリプト](https://www.endorphinbath.com/python-mackerel-of-the-year/)
 - ![](img/endorphinbath.png) [【YouTubeなど】動画の更新状況_2025年03月](https://www.endorphinbath.com/kinkingame24bit-youtube-202503/)
-- ![](img/endorphinbath.png) [【Python】死ぬほどモックで沼ってたのでその過程でClaude君が出してくれた対策を並べた](https://www.endorphinbath.com/python-mock-tips-from-claude/)
 <!--[END POSTS LIST]-->
 
 ## Blog, SNS🍺
