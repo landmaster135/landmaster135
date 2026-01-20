@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [TaskfileとGoで対話型タスク実行ツールを作る](https://note.com/kinkinbeer135ml/n/n4ce39be15baa)
 - ![](img/note.png) [2025年に作った適当開発ツール](https://note.com/kinkinbeer135ml/n/nc7362b923ad0)
 - ![](img/note.png) [2025年度福岡旅行その3（クリスマスマーケット編）](https://note.com/kinkinbeer135ml/n/n7aeefdb5f755)
 - ![](img/note.png) [2025年度福岡旅行その2（商業区画編）](https://note.com/kinkinbeer135ml/n/nd427b39f5acf)
@@ -94,7 +95,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【Cloud Scheduler】コンテナを動かすために必要なgcloudコマンドをシェル関数化する](https://www.endorphinbath.com/cloud-scheduler-gcloud-commands-shell-functions/)
 - ![](img/endorphinbath.png) [【Cloud Run】コンテナを稼働させるまでに必要なgcloudコマンドをシェル関数化する](https://www.endorphinbath.com/cloud-run-gcloud-commands-shell-functions/)
 - ![](img/endorphinbath.png) [【ffmpeg、PowerShell】MEGAでWebm動画を再生出来るようにする。](https://www.endorphinbath.com/ffmpeg-webm-for-mega-with-powershell/)
-- ![](img/note.png) [【Windows】Claude DesktopでGo製のMCPサーバを使う](https://note.com/kinkinbeer135ml/n/n80598479426d)
 <!--[END POSTS LIST]-->
 
 ## Blog, SNS🍺
