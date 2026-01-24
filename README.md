@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [could use tagged switch on query QF1003 (Go: Staticcheck)](https://note.com/kinkinbeer135ml/n/n112977f863c3)
 - ![](img/note.png) [TaskfileとGoで対話型タスク実行ツールを作る](https://note.com/kinkinbeer135ml/n/n4ce39be15baa)
 - ![](img/note.png) [2025年に作った適当開発ツール](https://note.com/kinkinbeer135ml/n/nc7362b923ad0)
 - ![](img/note.png) [2025年度福岡旅行その3（クリスマスマーケット編）](https://note.com/kinkinbeer135ml/n/n7aeefdb5f755)
@@ -90,7 +91,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
 - ![](img/note.png) [スプレッドシートじゃなくてDBが欲しい話](https://note.com/kinkinbeer135ml/n/n0d0ae09fd474)
 - ![](img/note.png) [【Go】2025年4月に作った適当開発ツール](https://note.com/kinkinbeer135ml/n/n561ec40b8786)
-- ![](img/note.png) [【Python】Agent Development KitでBrave Search APIのレスポンスを取得する](https://note.com/kinkinbeer135ml/n/nb627265bdb2a)
 - ![](img/endorphinbath.png) [【Google Cloud】GitHub Actionsで認証するためのシェル関数を作る](https://www.endorphinbath.com/gcp-shell-functions-for-github-actions-authentication/)
 - ![](img/endorphinbath.png) [【Cloud Scheduler】コンテナを動かすために必要なgcloudコマンドをシェル関数化する](https://www.endorphinbath.com/cloud-scheduler-gcloud-commands-shell-functions/)
 - ![](img/endorphinbath.png) [【Cloud Run】コンテナを稼働させるまでに必要なgcloudコマンドをシェル関数化する](https://www.endorphinbath.com/cloud-run-gcloud-commands-shell-functions/)
