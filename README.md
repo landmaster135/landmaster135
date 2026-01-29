@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [最近感じた個人的UIアンチパターン集](https://note.com/kinkinbeer135ml/n/n1187c77dcd2b)
 - ![](img/note.png) [いつの間にかDockerボリュームが700GB以上溜まっていた・・・](https://note.com/kinkinbeer135ml/n/n68921221560e)
 - ![](img/note.png) [could use tagged switch on query QF1003 (Go: Staticcheck)](https://note.com/kinkinbeer135ml/n/n112977f863c3)
 - ![](img/note.png) [TaskfileとGoで対話型タスク実行ツールを作る](https://note.com/kinkinbeer135ml/n/n4ce39be15baa)
@@ -90,7 +91,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/note.png) [Amazonブラックフライデー2025で買ったものたち（Codexで下書き）](https://note.com/kinkinbeer135ml/n/n476c220e4c5d)
 - ![](img/note.png) [40g周辺の軽いゲーミングマウス11選](https://note.com/kinkinbeer135ml/n/n807a96075188)
 - ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
-- ![](img/note.png) [スプレッドシートじゃなくてDBが欲しい話](https://note.com/kinkinbeer135ml/n/n0d0ae09fd474)
 - ![](img/endorphinbath.png) [【Google Cloud】GitHub Actionsで認証するためのシェル関数を作る](https://www.endorphinbath.com/gcp-shell-functions-for-github-actions-authentication/)
 - ![](img/endorphinbath.png) [【Cloud Scheduler】コンテナを動かすために必要なgcloudコマンドをシェル関数化する](https://www.endorphinbath.com/cloud-scheduler-gcloud-commands-shell-functions/)
 - ![](img/endorphinbath.png) [【Cloud Run】コンテナを稼働させるまでに必要なgcloudコマンドをシェル関数化する](https://www.endorphinbath.com/cloud-run-gcloud-commands-shell-functions/)
