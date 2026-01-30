@@ -80,6 +80,8 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：後編）](https://www.endorphinbath.com/mackerel-packed-can-2025-2nd/)
+- ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：前編）](https://www.endorphinbath.com/mackerel-packed-can-2025-1st/)
 - ![](img/note.png) [最近感じた個人的UIアンチパターン集](https://note.com/kinkinbeer135ml/n/n1187c77dcd2b)
 - ![](img/note.png) [いつの間にかDockerボリュームが700GB以上溜まっていた・・・](https://note.com/kinkinbeer135ml/n/n68921221560e)
 - ![](img/note.png) [could use tagged switch on query QF1003 (Go: Staticcheck)](https://note.com/kinkinbeer135ml/n/n112977f863c3)
@@ -93,8 +95,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
 - ![](img/endorphinbath.png) [【Google Cloud】GitHub Actionsで認証するためのシェル関数を作る](https://www.endorphinbath.com/gcp-shell-functions-for-github-actions-authentication/)
 - ![](img/endorphinbath.png) [【Cloud Scheduler】コンテナを動かすために必要なgcloudコマンドをシェル関数化する](https://www.endorphinbath.com/cloud-scheduler-gcloud-commands-shell-functions/)
-- ![](img/endorphinbath.png) [【Cloud Run】コンテナを稼働させるまでに必要なgcloudコマンドをシェル関数化する](https://www.endorphinbath.com/cloud-run-gcloud-commands-shell-functions/)
-- ![](img/endorphinbath.png) [【ffmpeg、PowerShell】MEGAでWebm動画を再生出来るようにする。](https://www.endorphinbath.com/ffmpeg-webm-for-mega-with-powershell/)
 <!--[END POSTS LIST]-->
 
 ## Blog, SNS🍺
