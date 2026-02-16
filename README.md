@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [Codex君のためにAGENTS.mdとプロジェクト文書を掃除する](https://note.com/kinkinbeer135ml/n/n3d32fe73e7ff)
 - ![](img/note.png) [Notionの代わりにMemosを使おうとしている](https://note.com/kinkinbeer135ml/n/n7d781e9012b7)
 - ![](img/note.png) [templで始めるGoフロントエンド開発](https://note.com/kinkinbeer135ml/n/n07244530828b)
 - ![](img/note.png) [Gitリポジトリの歴史から任意のファイルを抹消する](https://note.com/kinkinbeer135ml/n/ndbde89449f2e)
@@ -91,7 +92,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/note.png) [could use tagged switch on query QF1003 (Go: Staticcheck)](https://note.com/kinkinbeer135ml/n/n112977f863c3)
 - ![](img/note.png) [TaskfileとGoで対話型タスク実行ツールを作る](https://note.com/kinkinbeer135ml/n/n4ce39be15baa)
 - ![](img/note.png) [2025年に作った適当開発ツール](https://note.com/kinkinbeer135ml/n/nc7362b923ad0)
-- ![](img/note.png) [2025年度福岡旅行その3（クリスマスマーケット編）](https://note.com/kinkinbeer135ml/n/n7aeefdb5f755)
 - ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
 - ![](img/endorphinbath.png) [【Google Cloud】GitHub Actionsで認証するためのシェル関数を作る](https://www.endorphinbath.com/gcp-shell-functions-for-github-actions-authentication/)
 - ![](img/endorphinbath.png) [【Cloud Scheduler】コンテナを動かすために必要なgcloudコマンドをシェル関数化する](https://www.endorphinbath.com/cloud-scheduler-gcloud-commands-shell-functions/)
