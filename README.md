@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [RsyncとRcloneでファイルが壊れる原因はCPUコア不足だ](https://note.com/kinkinbeer135ml/n/n1a2d7e77176e)
 - ![](img/note.png) [UGREEN NASyncをやめてProxmoxとUbuntuで始める（Dockhandデプロイまで）](https://note.com/kinkinbeer135ml/n/n7f4c3323aa55)
 - ![](img/note.png) [Codex君に半自動的にWeb記事をひたすら要約してもらおう！](https://note.com/kinkinbeer135ml/n/nc198b81ab8ab)
 - ![](img/note.png) [今月食ったサバ缶のまとめ（2026年1月）](https://note.com/kinkinbeer135ml/n/n4ecfb4eda047)
@@ -91,7 +92,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：後編）](https://www.endorphinbath.com/mackerel-packed-can-2025-2nd/)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：前編）](https://www.endorphinbath.com/mackerel-packed-can-2025-1st/)
 - ![](img/note.png) [最近感じた個人的UIアンチパターン集](https://note.com/kinkinbeer135ml/n/n1187c77dcd2b)
-- ![](img/note.png) [いつの間にかDockerボリュームが700GB以上溜まっていた・・・](https://note.com/kinkinbeer135ml/n/n68921221560e)
 - ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
 - ![](img/endorphinbath.png) [【Google Cloud】GitHub Actionsで認証するためのシェル関数を作る](https://www.endorphinbath.com/gcp-shell-functions-for-github-actions-authentication/)
 - ![](img/endorphinbath.png) [【Cloud Scheduler】コンテナを動かすために必要なgcloudコマンドをシェル関数化する](https://www.endorphinbath.com/cloud-scheduler-gcloud-commands-shell-functions/)
