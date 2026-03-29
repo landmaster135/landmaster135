@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [NVIDIAのGPUとCachyOSでComfyUIのコンテナを立てる](https://note.com/kinkinbeer135ml/n/n2b5019d920bf)
 - ![](img/note.png) [今月食ったサバ缶のまとめ（2025年2月）](https://note.com/kinkinbeer135ml/n/n83e1ebee97bf)
 - ![](img/note.png) [Proxmoxのenterprise版を無視してアップデートする](https://note.com/kinkinbeer135ml/n/n6d3b20ccc146)
 - ![](img/note.png) [RsyncとRcloneでファイルが壊れる原因はCPUコア不足だ](https://note.com/kinkinbeer135ml/n/n1a2d7e77176e)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/note.png) [Codex君のためにAGENTS.mdとプロジェクト文書を掃除する](https://note.com/kinkinbeer135ml/n/n3d32fe73e7ff)
 - ![](img/note.png) [Notionの代わりにMemosを使おうとしている](https://note.com/kinkinbeer135ml/n/n7d781e9012b7)
 - ![](img/note.png) [templで始めるGoフロントエンド開発](https://note.com/kinkinbeer135ml/n/n07244530828b)
-- ![](img/note.png) [Gitリポジトリの歴史から任意のファイルを抹消する](https://note.com/kinkinbeer135ml/n/ndbde89449f2e)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：後編）](https://www.endorphinbath.com/mackerel-packed-can-2025-2nd/)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：前編）](https://www.endorphinbath.com/mackerel-packed-can-2025-1st/)
 - ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
