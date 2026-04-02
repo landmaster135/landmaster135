@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [WSL2のネットワーク問題ってもう直らないの？](https://note.com/kinkinbeer135ml/n/n5851f33159ae)
 - ![](img/note.png) [GitHub Actions内のCIをDockerで回す](https://note.com/kinkinbeer135ml/n/n7f080cbcdbd5)
 - ![](img/note.png) [NVIDIAのGPUとCachyOSでComfyUIのコンテナを立てる](https://note.com/kinkinbeer135ml/n/n2b5019d920bf)
 - ![](img/note.png) [今月食ったサバ缶のまとめ（2025年2月）](https://note.com/kinkinbeer135ml/n/n83e1ebee97bf)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/note.png) [Codex君に半自動的にWeb記事をひたすら要約してもらおう！](https://note.com/kinkinbeer135ml/n/nc198b81ab8ab)
 - ![](img/note.png) [今月食ったサバ缶のまとめ（2026年1月）](https://note.com/kinkinbeer135ml/n/n4ecfb4eda047)
 - ![](img/note.png) [Codex君のためにAGENTS.mdとプロジェクト文書を掃除する](https://note.com/kinkinbeer135ml/n/n3d32fe73e7ff)
-- ![](img/note.png) [Notionの代わりにMemosを使おうとしている](https://note.com/kinkinbeer135ml/n/n7d781e9012b7)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：後編）](https://www.endorphinbath.com/mackerel-packed-can-2025-2nd/)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：前編）](https://www.endorphinbath.com/mackerel-packed-can-2025-1st/)
 - ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
