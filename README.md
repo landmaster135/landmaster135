@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
 - ![](img/note.png) [WSL2のネットワーク問題ってもう直らないの？](https://note.com/kinkinbeer135ml/n/n5851f33159ae)
 - ![](img/note.png) [GitHub Actions内のCIをDockerで回す](https://note.com/kinkinbeer135ml/n/n7f080cbcdbd5)
 - ![](img/note.png) [NVIDIAのGPUとCachyOSでComfyUIのコンテナを立てる](https://note.com/kinkinbeer135ml/n/n2b5019d920bf)
-- ![](img/note.png) [今月食ったサバ缶のまとめ（2025年2月）](https://note.com/kinkinbeer135ml/n/n83e1ebee97bf)
+- ![](img/note.png) [今月食ったサバ缶のまとめ（2026年2月）](https://note.com/kinkinbeer135ml/n/n83e1ebee97bf)
 - ![](img/note.png) [Proxmoxのenterprise版を無視してアップデートする](https://note.com/kinkinbeer135ml/n/n6d3b20ccc146)
 - ![](img/note.png) [RsyncとRcloneでファイルが壊れる原因はCPUコア不足だ](https://note.com/kinkinbeer135ml/n/n1a2d7e77176e)
 - ![](img/note.png) [UGREEN NASyncをやめてProxmoxとUbuntuで始める（Dockhandデプロイまで）](https://note.com/kinkinbeer135ml/n/n7f4c3323aa55)
