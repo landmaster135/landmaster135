@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [SvelteKit、Go、ConnectRPCのモノレポ構築](https://note.com/kinkinbeer135ml/n/n662fa1ba5439)
 - ![](img/note.png) [今月食ったサバ缶のまとめ（2026年3月）](https://note.com/kinkinbeer135ml/n/n9344032af0ff)
 - ![](img/note.png) [ブログで使う立ち絵の表情を管理する](https://note.com/kinkinbeer135ml/n/n2893e4e940ab)
 - ![](img/note.png) [AntigravityからZedに変えたらメモリが6GB空いた (設定集)](https://note.com/kinkinbeer135ml/n/ndb53031a840b)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/note.png) [今月食ったサバ缶のまとめ（2026年2月）](https://note.com/kinkinbeer135ml/n/n83e1ebee97bf)
 - ![](img/note.png) [Proxmoxのenterprise版を無視してアップデートする](https://note.com/kinkinbeer135ml/n/n6d3b20ccc146)
 - ![](img/note.png) [RsyncとRcloneでファイルが壊れる原因はCPUコア不足だ](https://note.com/kinkinbeer135ml/n/n1a2d7e77176e)
-- ![](img/note.png) [UGREEN NASyncをやめてProxmoxとUbuntuで始める（Dockhandデプロイまで）](https://note.com/kinkinbeer135ml/n/n7f4c3323aa55)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：後編）](https://www.endorphinbath.com/mackerel-packed-can-2025-2nd/)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：前編）](https://www.endorphinbath.com/mackerel-packed-can-2025-1st/)
 - ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
