@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [今月食ったサバ缶のまとめ（2026年4月）](https://note.com/kinkinbeer135ml/n/ndbcf6b5e097e)
 - ![](img/note.png) [Codex用のハーネスを作り込むのは時間の無駄だと思った](https://note.com/kinkinbeer135ml/n/n735f02c71335)
 - ![](img/note.png) [【CachyOS】ComfyUIがカーネルの更新で動かなくなった](https://note.com/kinkinbeer135ml/n/nce5b5399cc72)
 - ![](img/note.png) [GPT-image-2 インフォグラフィック良い](https://note.com/kinkinbeer135ml/n/ne3e4834f3799)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/note.png) [AntigravityからZedに変えたらメモリが6GB空いた (設定集)](https://note.com/kinkinbeer135ml/n/ndb53031a840b)
 - ![](img/note.png) [WSL2のネットワーク問題ってもう直らないの？](https://note.com/kinkinbeer135ml/n/n5851f33159ae)
 - ![](img/note.png) [GitHub Actions内のCIをDockerで回す](https://note.com/kinkinbeer135ml/n/n7f080cbcdbd5)
-- ![](img/note.png) [NVIDIAのGPUとCachyOSでComfyUIのコンテナを立てる](https://note.com/kinkinbeer135ml/n/n2b5019d920bf)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：後編）](https://www.endorphinbath.com/mackerel-packed-can-2025-2nd/)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：前編）](https://www.endorphinbath.com/mackerel-packed-can-2025-1st/)
 - ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
