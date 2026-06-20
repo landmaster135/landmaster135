@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [funny には拙さが必要なのかもしれない](https://note.com/kinkinbeer135ml/n/n61af1cc83ec4)
 - ![](img/note.png) [Google Cloud Storage の代わりに PostgreSQL でファイル管理することにした](https://note.com/kinkinbeer135ml/n/ne514dd9f9651)
 - ![](img/note.png) [JWT でこんなにも色々な次元で弾けるなんて](https://note.com/kinkinbeer135ml/n/n19ca1f9b0397)
 - ![](img/note.png) [今月食ったサバ缶のまとめ（2026年4月）](https://note.com/kinkinbeer135ml/n/ndbcf6b5e097e)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/note.png) [SvelteKit、Go、ConnectRPCのモノレポ構築](https://note.com/kinkinbeer135ml/n/n662fa1ba5439)
 - ![](img/note.png) [今月食ったサバ缶のまとめ（2026年3月）](https://note.com/kinkinbeer135ml/n/n9344032af0ff)
 - ![](img/note.png) [ブログで使う立ち絵の表情を管理する](https://note.com/kinkinbeer135ml/n/n2893e4e940ab)
-- ![](img/note.png) [AntigravityからZedに変えたらメモリが6GB空いた (設定集)](https://note.com/kinkinbeer135ml/n/ndb53031a840b)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：後編）](https://www.endorphinbath.com/mackerel-packed-can-2025-2nd/)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：前編）](https://www.endorphinbath.com/mackerel-packed-can-2025-1st/)
 - ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
