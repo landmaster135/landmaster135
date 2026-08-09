@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [Gorm の query state 残存による SQLSTATE 42P10 エラー](https://note.com/kinkinbeer135ml/n/nfc35d8aa94eb)
 - ![](img/note.png) [今月食ったサバ缶のまとめ（2026年6月）](https://note.com/kinkinbeer135ml/n/n6b22afafd077)
 - ![](img/note.png) [MemosでIssueとか作業ログを貯めている](https://note.com/kinkinbeer135ml/n/nf2051eb69968)
 - ![](img/note.png) [エンティティを色々設計しているのだが自分が何をやっているのか分からなくなってきた](https://note.com/kinkinbeer135ml/n/n772eddb3ab21)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/note.png) [JWT でこんなにも色々な次元で弾けるなんて](https://note.com/kinkinbeer135ml/n/n19ca1f9b0397)
 - ![](img/note.png) [今月食ったサバ缶のまとめ（2026年4月）](https://note.com/kinkinbeer135ml/n/ndbcf6b5e097e)
 - ![](img/note.png) [Codex用のハーネスを作り込むのは時間の無駄だと思った](https://note.com/kinkinbeer135ml/n/n735f02c71335)
-- ![](img/note.png) [【CachyOS】ComfyUIがカーネルの更新で動かなくなった](https://note.com/kinkinbeer135ml/n/nce5b5399cc72)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：後編）](https://www.endorphinbath.com/mackerel-packed-can-2025-2nd/)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：前編）](https://www.endorphinbath.com/mackerel-packed-can-2025-1st/)
 - ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
