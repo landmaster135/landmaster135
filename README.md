@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
+- ![](img/note.png) [今月食ったサバ缶のまとめ（2026年8月）](https://note.com/kinkinbeer135ml/n/ncef5165889e8)
 - ![](img/note.png) [今月食ったサバ缶のまとめ（2026年7月）](https://note.com/kinkinbeer135ml/n/n3632b6190325)
 - ![](img/note.png) [Gorm の query state 残存による SQLSTATE 42P10 エラー](https://note.com/kinkinbeer135ml/n/nfc35d8aa94eb)
 - ![](img/note.png) [今月食ったサバ缶のまとめ（2026年6月）](https://note.com/kinkinbeer135ml/n/n6b22afafd077)
@@ -89,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/note.png) [funny には拙さが必要なのかもしれない](https://note.com/kinkinbeer135ml/n/n61af1cc83ec4)
 - ![](img/note.png) [Google Cloud Storage の代わりに PostgreSQL でファイル管理することにした](https://note.com/kinkinbeer135ml/n/ne514dd9f9651)
 - ![](img/note.png) [JWT でこんなにも色々な次元で弾けるなんて](https://note.com/kinkinbeer135ml/n/n19ca1f9b0397)
-- ![](img/note.png) [今月食ったサバ缶のまとめ（2026年4月）](https://note.com/kinkinbeer135ml/n/ndbcf6b5e097e)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：後編）](https://www.endorphinbath.com/mackerel-packed-can-2025-2nd/)
 - ![](img/endorphinbath.png) [今年食ったサバ缶のまとめ（2025年版：前編）](https://www.endorphinbath.com/mackerel-packed-can-2025-1st/)
 - ![](img/endorphinbath.png) [【原神】シュヴァルマラン映影ランド雑記](https://www.endorphinbath.com/genshin-chevalmarin-film-notes-land/)
